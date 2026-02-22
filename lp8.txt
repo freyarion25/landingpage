@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <!-- SEO Meta Tags -->
+    <title>SITUS TOGEL MACAU TERPERCAYA SE-ASIA - Banjir69</title>
+    <meta name="description" content="Banjir69 adalah situs togel Macau terpercaya se-Asia dengan sistem keamanan tingkat tinggi, pasaran terlengkap, dan pembayaran tercepat. Bergabung sekarang!">
+    <meta name="keywords" content="banjir69, togel macau, situs togel terpercaya, togel online asia, cyberpunk togel, prediksi macau">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Banjir69 Team">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://jali.me/seobanjirr">
+    <meta property="og:title" content="SITUS TOGEL MACAU TERPERCAYA SE-ASIA">
+    <meta property="og:description" content="Platform hiburan digital terdepan dengan estetika cyberpunk. Banjir69 menawarkan pengalaman tercepat dan teraman.">
+    <meta property="og:image" content="https://i.ibb.co/NnjLPGq4/art-259.webp">
+
+    <!-- Fonts: Orbitron (Judul) & Rajdhani (Body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="canonical" href="https://jali.me/seobanjirr" />
+    <link rel="amphtml" href="#amp" />
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;500;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* --- CSS VARIABLES (CYBERPUNK THEME) --- */
+        :root {
+            --bg-dark: #050505;
+            --bg-panel: #0f0f16;
+            --neon-pink: #3362c7;
+            --neon-blue: #0051ff;
+            --neon-yellow: #078d8d;
+            --text-main: #faf2f2;
+            --text-muted: #a0a0a0;
+            --font-heading: 'Orbitron', sans-serif;
+            --font-body: 'Rajdhani', sans-serif;
+            --container-width: 1100px;
+        }
+
+        /* --- RESET & BASIC STYLES --- */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            overflow-x: hidden;
+            background-image: 
+                linear-gradient(rgba(0, 243, 255, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 243, 255, 0.03) 1px, transparent 1px);
+            background-size: 30px 30px;
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+            transition: 0.3s;
+        }
+
+        ul {
+            list-style: none;
+        }
+
+        img {
+            max-width: 100%;
+            display: block;
+        }
+
+        /* --- LAYOUT UTILITIES --- */
+        .container {
+            max-width: var(--container-width);
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .section-padding {
+            padding: 80px 0;
+        }
+
+        .text-center { text-align: center; }
+        .text-neon-blue { color: var(--neon-blue); }
+        .text-neon-pink { color: var(--neon-pink); }
+
+        /* --- HEADER & NAVBAR --- */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: rgba(5, 5, 5, 0.9);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            border-bottom: 1px solid rgba(0, 243, 255, 0.2);
+            box-shadow: 0 4px 20px rgba(0, 243, 255, 0.1);
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 80px;
+        }
+
+        /* Script Logo di Navbar */
+        .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .logo-img {
+            height: 40px;
+            width: auto;
+            filter: drop-shadow(0 0 5px var(--neon-pink));
+        }
+
+        .logo-text {
+            font-family: var(--font-heading);
+            font-size: 1.5rem;
+            font-weight: 900;
+            letter-spacing: 1px;
+            color: #fff;
+            text-transform: uppercase;
+        }
+
+        .logo-text span {
+            color: var(--neon-pink);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 30px;
+        }
+
+        .nav-links a {
+            font-size: 1.1rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            position: relative;
+        }
+
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 2px;
+            bottom: -5px;
+            left: 0;
+            background-color: var(--neon-blue);
+            transition: width 0.3s ease;
+            box-shadow: 0 0 10px var(--neon-blue);
+        }
+
+        .nav-links a:hover {
+            color: var(--neon-blue);
+        }
+
+        .nav-links a:hover::after {
+            width: 100%;
+        }
+
+        .cta-btn {
+            background: transparent;
+            border: 2px solid var(--neon-pink);
+            color: var(--neon-pink);
+            padding: 10px 25px;
+            font-family: var(--font-heading);
+            font-weight: 700;
+            text-transform: uppercase;
+            clip-path: polygon(10% 0, 100% 0, 100% 70%, 90% 100%, 0 100%, 0 30%);
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .cta-btn:hover {
+            background: var(--neon-pink);
+            color: #fff;
+            box-shadow: 0 0 20px var(--neon-pink);
+        }
+
+        /* --- HERO SECTION --- */
+        .hero {
+            position: relative;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            padding-top: 80px; /* offset navbar */
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            /* Background Image Abstrak Cyberpunk */
+            background: url('https://i.ibb.co/NnjLPGq4/art-259.webp') center/cover no-repeat;
+            opacity: 0.3;
+            z-index: -1;
+        }
+
+        .hero-content {
+            text-align: center;
+            max-width: 800px;
+            z-index: 2;
+        }
+
+        .hero h1 {
+            font-family: var(--font-heading);
+            font-size: 3.5rem;
+            line-height: 1.2;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 0px var(--neon-pink), -2px -2px 0px var(--neon-blue);
+            animation: glitch 3s infinite alternate;
+        }
+
+        .hero p {
+            font-size: 1.3rem;
+            margin-bottom: 40px;
+            color: var(--text-main);
+            background: rgba(0,0,0,0.6);
+            padding: 10px;
+            border-left: 3px solid var(--neon-yellow);
+        }
+
+        .hero-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .btn-primary {
+            background: var(--neon-blue);
+            border: none;
+            padding: 15px 40px;
+            font-family: var(--font-heading);
+            font-weight: 700;
+            color: #000;
+            clip-path: polygon(0 0, 100% 0, 100% 80%, 90% 100%, 0 100%);
+        }
+
+        .btn-primary:hover {
+            background: #fff;
+            box-shadow: 0 0 25px var(--neon-blue);
+            transform: translateY(-2px);
+        }
+
+        /* --- FEATURES SECTION --- */
+        .features {
+            background: var(--bg-panel);
+            position: relative;
+        }
+
+        /* Cyberpunk Decorative Line */
+        .features::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--neon-pink), transparent);
+        }
+
+        .section-title {
+            font-family: var(--font-heading);
+            font-size: 2.5rem;
+            margin-bottom: 50px;
+            text-align: center;
+            color: #fff;
+        }
+
+        .section-title span {
+            color: var(--neon-blue);
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .feature-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(0, 243, 255, 0.1);
+            padding: 30px;
+            transition: 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .feature-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 0;
+            background: var(--neon-pink);
+            transition: 0.3s;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.05);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+        }
+
+        .feature-card:hover::before {
+            height: 100%;
+        }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            color: var(--neon-blue);
+            margin-bottom: 20px;
+        }
+
+        .feature-card h3 {
+            font-family: var(--font-heading);
+            margin-bottom: 15px;
+            font-size: 1.4rem;
+        }
+
+        /* --- CONTENT SECTION (SEO & IMAGE) --- */
+        .content-section {
+            background-color: var(--bg-dark);
+        }
+
+        .content-wrapper {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 50px;
+        }
+
+        .content-text {
+            flex: 1;
+            min-width: 300px;
+        }
+
+        .content-text h2 {
+            font-family: var(--font-heading);
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: var(--neon-yellow);
+        }
+
+        .content-text p {
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+            color: var(--text-muted);
+        }
+
+        .keyword-highlight {
+            color: #fff;
+            font-weight: 700;
+            border-bottom: 1px dotted var(--neon-blue);
+        }
+
+        .content-image {
+            flex: 1;
+            min-width: 300px;
+            position: relative;
+        }
+
+        /* Styling Image Script */
+        .cyber-frame {
+            position: relative;
+            padding: 10px;
+            border: 1px solid var(--neon-blue);
+            background: rgba(0, 243, 255, 0.05);
+        }
+
+        .cyber-frame::after {
+            content: "SYSTEM_VISUAL_v1.0";
+            position: absolute;
+            bottom: -20px;
+            right: 0;
+            font-size: 0.8rem;
+            font-family: var(--font-heading);
+            color: var(--neon-blue);
+        }
+
+        .cyber-frame img {
+            width: 100%;
+            height: auto;
+            filter: grayscale(20%) contrast(110%);
+            transition: 0.5s;
+        }
+
+        .cyber-frame:hover img {
+            filter: grayscale(0%) contrast(100%);
+        }
+
+        /* --- FOOTER --- */
+        footer {
+            background: #000;
+            border-top: 1px solid #333;
+            padding: 50px 0 20px;
+            text-align: center;
+        }
+
+        .footer-logo {
+            font-family: var(--font-heading);
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            display: inline-block;
+        }
+
+        .footer-links {
+            margin-bottom: 30px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .footer-links a {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .footer-links a:hover {
+            color: var(--neon-pink);
+        }
+
+        .copyright {
+            color: #555;
+            font-size: 0.8rem;
+            margin-top: 20px;
+        }
+
+        /* --- ANIMATIONS --- */
+        @keyframes glitch {
+            0% { text-shadow: 2px 2px 0px var(--neon-pink), -2px -2px 0px var(--neon-blue); }
+            25% { text-shadow: -2px 2px 0px var(--neon-pink), 2px -2px 0px var(--neon-blue); }
+            50% { text-shadow: 2px -2px 0px var(--neon-pink), -2px 2px 0px var(--neon-blue); }
+            75% { text-shadow: -2px -2px 0px var(--neon-pink), 2px 2px 0px var(--neon-blue); }
+            100% { text-shadow: 2px 2px 0px var(--neon-pink), -2px -2px 0px var(--neon-blue); }
+        }
+
+        /* --- RESPONSIVE --- */
+        @media (max-width: 768px) {
+            .navbar {
+                flex-direction: column;
+                height: auto;
+                padding: 15px 0;
+            }
+            .nav-links {
+                margin-top: 15px;
+                gap: 15px;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .hero h1 {
+                font-size: 2rem;
+            }
+            .content-wrapper {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header / Navbar -->
+    <header>
+        <div class="container navbar">
+            <div class="logo-area">
+
+                <!-- Script Logo di Navbar (Placeholder Image) -->
+                <img src="https://tidak-jago-seo.pages.dev/iconapk.png" alt="togel macau Banjir69" class="logo-img">
+                <div class="logo-text">BANJIR<span>69</span></div>
+            </div>
+            
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#hero">Beranda</a></li>
+                    <li><a href="#about">Tentang</a></li>
+                    <li><a href="#features">Fitur</a></li>
+                    <li><a href="#contact">Hubungi</a></li>
+                </ul>
+            </nav>
+
+            <a href="#amp" class="cta-btn">DAFTAR</a>
+        </div>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="hero" class="hero">
+            <div class="container hero-content">
+                <!-- Judul Utama Sesuai Request -->
+                <h1>SITUS TOGEL MACAU TERPERCAYA SE-ASIA</h1>
+                <p>
+                    Selamat datang di <span class="keyword-highlight">banjir69</span>. Platform hiburan digital dengan sistem keamanan terenkripsi tingkat militer dan integrasi data real-time tercepat.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#amp" class="btn-primary">MULAI SEKARANG</a>
+                    <a href="#amp" class="cta-btn" style="background: transparent; border-color: var(--neon-blue); color: var(--neon-blue);">PELAJARI LEBIH</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Features Section -->
+        <section id="features" class="section-padding features">
+            <div class="container">
+                <h2 class="section-title">KEUNGGULAN <span>BANJIR69</span></h2>
+                
+                <div class="feature-grid">
+                    <article class="feature-card">
+                        <div class="feature-icon">&#128274;</div> <!-- Icon Lock -->
+                        <h3>KEAMANAN SIBER</h3>
+                        <p>Sistem proteksi data berlapis untuk menjamin privasi dan keamanan pengguna di dunia maya yang rentan.</p>
+                    </article>
+
+                    <article class="feature-card">
+                        <div class="feature-icon">&#9889;</div> <!-- Icon Lightning -->
+                        <h3>PROSES KILAT</h3>
+                        <p>Transaksi diproses dalam hitungan detik menggunakan algoritma otomatis tanpa hambatan.</p>
+                    </article>
+
+                    <article class="feature-card">
+                        <div class="feature-icon">&#127918;</div> <!-- Icon Gamepad -->
+                        <h3>VARIASI TERLENGKAP</h3>
+                        <p>Akses ke berbagai pasar global dengan antarmuka pengguna yang modern dan responsif.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- Content Section with Image Script -->
+        <section id="about" class="section-padding content-section">
+            <div class="container content-wrapper">
+                <div class="content-text">
+                    <h2>MENGAPA MEMILIH KAMI?</h2>
+                    <p>
+                        Dalam ekosistem digital yang serba cepat ini, <strong>banjir69</strong> hadir sebagai solusi terdepan. Kami menggabungkan teknologi terkini dengan estetika antarmuka yang memudahkan pengguna.
+                    </p>
+                    <p>
+                        Fokus utama kami adalah integritas dan transparansi. Sebagai situs togel macau terpercaya se-Asia, kami memastikan setiap data yang ditampilkan akurat dan dapat diverifikasi secara real-time.
+                    </p>
+                    <p>
+                        Bergabunglah dengan komunitas kami dan rasakan pengalaman berstandar internasional dengan sentuhan nuansa futuristik.
+                    </p>
+                    <a href="#" style="color: var(--neon-pink); font-weight: bold;">BACA SELENGKAPNYA -></a>
+                </div>
+                
+                <div class="content-image">
+                    <!-- Script Image di Content dengan frame Cyberpunk -->
+                    <figure class="cyber-frame">
+                        <img src="https://i.ibb.co/RGKHyKz3/art-289.webp" alt="Ilustrasi Teknologi Banjir69" width="600" height="400">
+                        <figcaption style="margin-top: 10px; font-size: 0.8rem; color: var(--text-muted); text-align: right;">
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </section>
+
+        <!-- SEO Text Block -->
+        <section class="section-padding" style="background: #0a0a0a;">
+            <div class="container">
+                <article style="color: #777; font-size: 0.95rem; border-left: 2px solid #333; padding-left: 20px;">
+                    <h3 style="color: #fff; margin-bottom: 10px; font-family: var(--font-heading);">INFORMASI PLATFORM</h3>
+                    <p>
+                        Banjir69 adalah destinasi utama bagi para penggemar togel Macau di Asia yang mencari keandalan dan kecepatan. Dengan infrastruktur server yang modern, kami menjamin uptime 99.9%. Temukan kemudahan akses melalui perangkat desktop maupun mobile tanpa perlu mengunduh aplikasi tambahan.
+                    </p>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-logo">BANJIR<span>69</span></div>
+            
+            <div class="footer-links">
+                <a href="#">Syarat & Ketentuan</a>
+                <a href="#">Kebijakan Privasi</a>
+                <a href="#">Pusat Bantuan</a>
+                <a href="#">Bonus & Promo</a>
+            </div>
+
+            <p class="text-muted" style="font-size: 0.9rem;">
+                Website ini ditujukan untuk pengguna yang berusia 18 tahun ke atas. Harap bermain dengan bijak dan bertanggung jawab.
+            </p>
+
+            <div class="copyright">
+                &copy; 2026 Banjir69. All rights reserved. Designed by SEO Banjir69.
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
