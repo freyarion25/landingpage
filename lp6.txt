@@ -1,0 +1,292 @@
+
+<!DOCTYPE html>
+<html amp lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta content="Banjir69: Platform Toto Macau Gacor Terpercaya 2026" property="og:title" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+    <meta name="description" content="BANJIR69 merupakan situs slot Zeus gacor terbaru 2026 dengan akses login cepat, server stabil, dan tampilan responsif. Nikmati pengalaman bermain yang lebih praktis serta kemudahan akses melalui link resmi setiap hari."/>
+    <meta name="robots" content="max-image-preview:large" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta content="id" name="language" />
+    <meta content="id" name="geo.country" />
+    <meta http-equiv="content-language" content="In-Id" />
+    <meta content="Indonesia" name="geo.placename" />
+    <meta content="website" property="og:type" />
+    <meta content="BANJIR69: Situs Slot Zeus Gacor Gampang Maxwin Hari Ini 2026" />
+    <meta property="og:site_name" content="Banjir69" />
+    <meta property="og:author" content="Banjir69" />
+    <title>BANJIR69: Situs Slot Zeus Gacor Gampang Maxwin Hari Ini 2026</title>
+    <link rel="canonical" href="https://jali.me/seobanjirr" />
+    <link rel="shortcut icon" href="https://tidak-jago-seo.pages.dev/iconapk.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet" />
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style> <noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+    <style amp-custom>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: #000;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            box-sizing: border-box;
+        }
+
+        .content {
+            width: 100%;
+            max-width: 450px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 0 20px;
+            box-sizing: border-box;
+        }
+
+        .container {
+            width: 100%;
+            background: #122266;
+            border: 2px solid #243c70;
+            border-radius: 15px;
+            padding: 20px 0;
+            box-shadow: 0 0 10px #12245f;
+            animation: containerPulse 2s infinite;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        @keyframes containerPulse {
+            0% {
+                border-color: #010102;
+                box-shadow: 0 0 10px #0f0f0f;
+            }
+
+            50% {
+                border-color: #0a0a0a;
+                box-shadow: 0 0 20px #797575;
+            }
+
+            100% {
+                border-color: #082b8a;
+                box-shadow: 0 0 10px #08268a;
+            }
+        }
+
+        .logo {
+            margin-bottom: 20px;
+            animation: logoGlow 2s infinite;
+        }
+
+        @keyframes logoGlow {
+            0% {
+                filter: drop-shadow(0 0 3px #08208a);
+            }
+
+            50% {
+                filter: drop-shadow(0 0 15px #180bd1);
+            }
+
+            100% {
+                filter: drop-shadow(0 0 3px #08318a);
+            }
+        }
+
+        amp-anim {
+            border-radius: 15px;
+            max-width: 100%;
+            margin-bottom: 20px;
+        }
+
+        main {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+            margin-bottom: 15px;
+            width: 305px;
+            /* sesuai lebar gambar */
+        }
+
+        .btn {
+            width: 100%;
+            padding: 10px 0;
+            background: linear-gradient(90deg, #08208a, #000, #08268a);
+            color: #fff;
+            border: 1px solid #08658a;
+            border-radius: 8px;
+            text-transform: uppercase;
+            font-weight: bold;
+            cursor: pointer;
+            transition: transform .3s, box-shadow .3s;
+            animation: borderPulse 1s infinite;
+            text-decoration: none;
+            display: inline-block;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        .btn:hover {
+            transform: scale(1.03);
+            box-shadow: 0 0 8px #fff;
+        }
+
+        @keyframes borderPulse {
+            0% {
+                border-color: #08658a;
+                box-shadow: 0 0 0 0 #08658a;
+            }
+
+            50% {
+                border-color: #e4e2e2;
+                box-shadow: 0 0 10px 5px #e4e2e2;
+            }
+
+            100% {
+                border-color: #08658a;
+                box-shadow: 0 0 0 0 #08658a;
+            }
+        }
+
+        footer {
+            font-size: 12px;
+            color: #3b6f92;
+            margin: 10px 0 5px;
+            text-align: center;
+        }
+
+        p {
+            display: inline-block;
+            color: #28a8daa6;
+            animation: flicker 1.5s infinite;
+        }
+
+        @keyframes flicker {
+            0% {
+                opacity: 0.7;
+            }
+
+            50% {
+                opacity: 1;
+            }
+
+            100% {
+                opacity: 0.7;
+            }
+        }
+
+        @media only screen and (max-width:500px) {
+            main {
+                width: 95%;
+            }
+
+            .btn {
+                font-size: 13px;
+                padding: 8px 0;
+            }
+        }
+    </style>
+    
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
+    <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    
+</head>
+
+<body>
+
+    <div class="content">
+        <div class="container">
+            <amp-img class="logo" src="https://i.ibb.co/xKNbffX6/banjir69-logo-gif-865-x-204.gif" width="200" height="60" layout="fixed" alt="Banjir69"> </amp-img> <a target="_blank" href="https://jali.me/seobanjirr">
+                <amp-anim src="https://i.ibb.co/d0w1Z2Cz/ARsade-T-277-2.webp" width="280" height="300" layout="fixed" alt="Banjir69"> </amp-anim>
+            </a>
+            <main> 
+
+        <!-- HEADLINE & DESKRIPSI -->
+            <h1>SITUS SLOT ZEUS GACOR GAMPANG MAXWIN HARI INI 2026</h1>
+            </p>
+                <a class="btn" href="https://jali.me/seobanjirr" target="_blank">Login</a> 
+                <a class="btn" href="https://jali.me/seobanjirr" target="_blank">Daftar</a> 
+                <a class="btn" href="https://jali.me/seobanjirr" target="_blank">Akun VIP Slot Gacor</a> </main>
+            <footer>
+                <p> <strong>&copy;2026 - Banjir69 SEO HAMC</strong></p>
+            </footer>
+        </div>
+    </div>
+</body>
+
+</html>
