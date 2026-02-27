@@ -23,7 +23,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="canonical" href="https://jali.me/seobanjirr" />
-    <link rel="amphtml" href="#amp" />
+    <link rel="amphtml" href="https://macaubanjir69.pages.dev/togel-terpercaya/" />
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;500;700&display=swap" rel="stylesheet">
 
     <style>
@@ -495,7 +495,7 @@
                 </ul>
             </nav>
 
-            <a href="#amp" class="cta-btn">DAFTAR</a>
+            <a href="https://macaubanjir69.pages.dev/togel-terpercaya/" class="cta-btn">DAFTAR</a>
         </div>
     </header>
 
@@ -509,8 +509,8 @@
                     Selamat datang di <span class="keyword-highlight">banjir69</span>. Platform hiburan digital dengan sistem keamanan terenkripsi tingkat militer dan integrasi data real-time tercepat.
                 </p>
                 <div class="hero-buttons">
-                    <a href="#amp" class="btn-primary">MULAI SEKARANG</a>
-                    <a href="#amp" class="cta-btn" style="background: transparent; border-color: var(--neon-blue); color: var(--neon-blue);">PELAJARI LEBIH</a>
+                    <a href="https://macaubanjir69.pages.dev/togel-terpercaya/" class="btn-primary">MULAI SEKARANG</a>
+                    <a href="https://macaubanjir69.pages.dev/togel-terpercaya/" class="cta-btn" style="background: transparent; border-color: var(--neon-blue); color: var(--neon-blue);">PELAJARI LEBIH</a>
                 </div>
             </div>
         </section>
