@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Cache-Control" content="NO-CACHE">
+    <meta property="fb:app_id" content="266003681172790" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@heylink.me" />
+    <meta name="twitter:site" content="@heylink.me" />
+    <meta name="twitter:domain" content="heylink.me" />
+    <title>BANJIR69 | Main Sekali, Ketagihan Sepanjang Hari! Arena Game Online Paling Hits.</title>
+    <link rel="shortcut icon" type="image/x-icon" href="https://tidak-jago-seo.pages.dev/iconapk.png"/>
+    <link rel="icon" type="image/x-icon" href="https://tidak-jago-seo.pages.dev/iconapk.png" />
+    <meta property="og:url" content="https://jali.me/seobanjirr/"/>  
+    <meta name="google-site-verification" content="eqZnn46wo23bY40BkHD3uCNqruzRG4sth6zoQVRcZQQ" />
+    <meta name="author" content="https://jali.me/seobanjirr/">
+    <meta name="description" content="Gak bakal bisa berhenti main!” BANJIR69 menghadirkan arena game online paling hits, tiap klik penuh sensasi, tantangan seru, dan keseruan yang bikin ketagihan sepanjang hari.">
+    <meta name="keywords" content="BANJIR69, Banjir69, slot BANJIR69">
+    <meta property="og:site_name" content="BANJIR69 | Main Sekali, Ketagihan Sepanjang Hari! Arena Game Online Paling Hits." />
+    <meta property="og:image" content="https://i.ibb.co/WWt7spmg/hf-20260224-165351-be47e422-aefe-4df5-8435-66e53bf97e6f.jpg " />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="800" />
+    <meta property="og:type" content="profile" />
+    <meta property="og:title" content="BANJIR69 | Main Sekali, Ketagihan Sepanjang Hari! Arena Game Online Paling Hits." />
+    <meta property="og:description" content="Gak bakal bisa berhenti main!” BANJIR69 menghadirkan arena game online paling hits, tiap klik penuh sensasi, tantangan seru, dan keseruan yang bikin ketagihan sepanjang hari." />
+    <meta name="twitter:title" content="BANJIR69 | Main Sekali, Ketagihan Sepanjang Hari! Arena Game Online Paling Hits." />
+    <meta name="twitter:description" content="Gak bakal bisa berhenti main!” BANJIR69 menghadirkan arena game online paling hits, tiap klik penuh sensasi, tantangan seru, dan keseruan yang bikin ketagihan sepanjang hari." />
+    <meta name="twitter:image:src" content="https://i.ibb.co/WWt7spmg/hf-20260224-165351-be47e422-aefe-4df5-8435-66e53bf97e6f.jpg " />
+    <meta name="twitter:image" content="https://i.ibb.co/WWt7spmg/hf-20260224-165351-be47e422-aefe-4df5-8435-66e53bf97e6f.jpg " />
+    
+    <!-- Google Fonts for better typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Animasi bintang bergerak di malam hari */
+        @keyframes moveStars {
+            from { transform: translateY(0); }
+            to { transform: translateY(-2000px); }
+        }
+        
+        @keyframes twinkle {
+            0% { opacity: 0.2; }
+            50% { opacity: 1; }
+            100% { opacity: 0.2; }
+        }
+        
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Montserrat', 'Poppins', sans-serif !important;
+            background: #0a0f2a !important; /* Warna dasar malam */
+            position: relative;
+            overflow-x: hidden;
+            min-height: 100vh;
+        }
+        
+        /* Layer bintang utama */
+        .stars, .stars2, .stars3 {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            width: 100%;
+            height: 100%;
+            display: block;
+            pointer-events: none;
+            z-index: 0;
+        }
+        
+        /* Bintang kecil (ukuran 1px) */
+        .stars {
+            background: transparent url('data:image/svg+xml;utf8,<svg width="3" height="3" xmlns="http://www.w3.org/2000/svg"><circle cx="1.5" cy="1.5" r="1" fill="white" /></svg>') repeat;
+            background-size: 3px 3px;
+            animation: moveStars 200s linear infinite;
+            opacity: 0.8;
+        }
+        
+        /* Bintang sedang (ukuran 2px) */
+        .stars2 {
+            background: transparent url('data:image/svg+xml;utf8,<svg width="5" height="5" xmlns="http://www.w3.org/2000/svg"><circle cx="2.5" cy="2.5" r="1.5" fill="white" /></svg>') repeat;
+            background-size: 50px 50px;
+            animation: moveStars 150s linear infinite;
+            opacity: 0.6;
+        }
+        
+        /* Bintang besar yang berkelap-kelip */
+        .stars3 {
+            background: transparent url('data:image/svg+xml;utf8,<svg width="7" height="7" xmlns="http://www.w3.org/2000/svg"><circle cx="3.5" cy="3.5" r="2" fill="white" /></svg>') repeat;
+            background-size: 100px 100px;
+            animation: moveStars 100s linear infinite, twinkle 4s ease-in-out infinite;
+            opacity: 0.5;
+        }
+        
+        /* Gradient malam untuk efek kedalaman */
+        .night-gradient {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(ellipse at top, #1b1e3c 0%, #0a0f2a 100%);
+            pointer-events: none;
+            z-index: 1;
+            opacity: 0.8;
+        }
+        
+        /* Konten utama dengan z-index lebih tinggi dari background */
+        .content-wrapper {
+            position: relative;
+            z-index: 10;
+            background: transparent !important;
+        }
+        
+        /* User page section dengan background transparan */
+        .user-page-section {
+            background: transparent !important;
+        }
+        
+        /* Mengganti font untuk semua elemen teks */
+        h1, h2, h3, h4, h5, h6, p, a, span, div, button, .username, .preview-user-description__component, .name, .preview-link-wrapper {
+            font-family: 'Montserrat', 'Poppins', sans-serif !important;
+        }
+        
+        /* Username dengan font lebih tebal dan efek glow */
+        .username {
+            font-weight: 700 !important;
+            font-size: 2.2rem !important;
+            letter-spacing: -0.5px;
+            text-shadow: 0 0 20px rgba(0, 153, 255, 0.7), 0 0 40px rgba(0, 162, 255, 0.3);
+            color: #00ccff !important; /* Warna emas */
+            margin-bottom: 20px !important;
+            background: linear-gradient(45deg, #0084ff, #008cff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        /* Deskripsi dengan font yang lebih elegan */
+        .preview-user-description__component {
+            font-weight: 400 !important;
+            line-height: 1.6 !important;
+            color: #E0E0FF !important;
+            text-shadow: 0 0 10px rgba(100, 150, 255, 0.3);
+        }
+        
+        /* Link buttons dengan warna baru yang serasi dengan poster */
+        .preview-link-wrapper {
+            background: rgba(20, 30, 60, 0.8) !important;
+            border: 2px solid #c3c7c9 !important;
+            box-shadow: 0 0 20px rgba(0, 225, 255, 0.3), inset 0 0 20px rgba(255, 215, 0, 0.2) !important;
+            backdrop-filter: blur(5px);
+            transition: all 0.3s ease !important;
+        }
+        
+        .preview-link-wrapper:hover {
+            transform: scale(1.02);
+            box-shadow: 0 0 30px rgba(0, 140, 255, 0.6), inset 0 0 30px rgba(0, 255, 234, 0.4) !important;
+            border-color: #13c3c9 !important;
+        }
+        
+        .preview-link-wrapper .name {
+            color: #18b3da !important;
+            font-weight: 600 !important;
+            font-size: 1.2rem !important;
+            letter-spacing: 0.5px;
+            text-shadow: 0 0 10px rgba(236, 235, 224, 0.5);
+        }
+        
+        /* Cover image dengan border glow */
+        .cover-image__component {
+            border: 4px solid #c9cdd1 !important;
+            box-shadow: 0 0 30px rgba(0, 255, 213, 0.5) !important;
+            border-radius: 50% !important;
+            transition: all 0.3s ease;
+        }
+        
+        .cover-image__component:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 50px rgba(0, 68, 255, 0.8) !important;
+        }
+        
+        /* Icon buttons dengan warna baru */
+        .preview-share-icon-wrapper {
+            background: rgba(6, 166, 214, 0.2) !important;
+            border: 2px solid #00aeff !important;
+            backdrop-filter: blur(5px);
+        }
+        
+        .preview-share-icon-wrapper svg {
+            fill: #00ffd5 !important;
+        }
+        
+        /* QR Code button */
+        .qr-code-button {
+            background: rgba(0, 255, 242, 0.2) !important;
+        }
+        
+        /* Share button */
+        #shareIconDropdown {
+            background: rgba(0, 247, 255, 0.2) !important;
+        }
+        
+        /* Link underlayer */
+        .link-underlayer {
+            border-color: #00c3ff !important;
+        }
+        
+        /* Footer dengan warna baru */
+        .user-page-section-footer {
+            color: #00ccff !important;
+        }
+        
+        /* Cookies button */
+        .ot-sdk-show-settings {
+            color: #0099ff !important;
+            border-color: #00b7ff !important;
+        }
+        
+        /* Report abuse button */
+        .report-abuse-button-wrapper svg {
+            stroke: #00aeff !important;
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .username {
+                font-size: 1.8rem !important;
+            }
+            
+            .preview-link-wrapper .name {
+                font-size: 1rem !important;
+            }
+        }
+        
+        /* Hilangkan background lama */
+        [style*="background: linear-gradient"] {
+            background: transparent !important;
+        }
+        
+        /* User page section background */
+        .user-page-section-background {
+            background: transparent !important;
+        }
+        
+        #bg-color {
+            display: none;
+        }
+    </style>
+    
+    <script type='text/javascript' nonce='IoOx+u0RqUOtDPWzccMEAg==' src='https://c1118751.sgvps.net/CjV9UVwZpvaMPi6RSLgYG_GLlCGnYXCSBR9_4zpvDl6RvFZQufSdG8RAg1NVBKANIAd5c2HaE38uE84VDFhmi_Il5aJnW3w9bTxPMyHT5hLpKgY07jOBc74AME3XUWNpNrsxpmYdw3M7yogaqr2j6UOVzzur-tQrUVgdNsZ-2ko='></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha512-21jyjW5+RJGAZ563i/Ug7e0AUkY7QiZ53LA4DWE5eNu5hvjW6KUf9LqquJ/ziLKWhecyvvojG7StycLj7bT39Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <!-- Google tag Consent Settings -->
+    <script>
+        // Define dataLayer and the gtag function.
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        // Default ad_storage to 'denied' as a placeholder
+        // Determine actual values based on business requirements
+        // Default consent settings.
+        gtag('consent', 'default', {
+            ad_storage: "granted",
+            analytics_storage: "granted",
+            ad_user_data: "granted",
+            ad_personalization: "granted",
+            'wait_for_update': 500
+        });
+    </script>
+    
+    <!-- OneTrust Cookies Consent Notice start for heylink.me -->
+    <script type="text/javascript" src="https://cdn.cookielaw.org/consent/ed015149-1f0d-43d2-85fc-05bb16cc098b/otSDKStub.js" defer type="text/javascript" charset="UTF-8" data-domain-script="ed015149-1f0d-43d2-85fc-05bb16cc098b"></script>
+    <script type="text/javascript">function OptanonWrapper() { }</script>
+    <!-- OneTrust Cookies Consent Notice end for heylink.me -->
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-731167347"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'AW-731167347');
+    </script>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script type="text/javascript" defer src="https://www.googletagmanager.com/gtag/js?id=G-SLMX7BZBWP"></script>
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-SLMX7BZBWP');
+    </script>
+    
+    <link rel="canonical" href="https://jali.me/seobanjirr/" />
+    <link rel="amphtml" href="https://kingstechhub.com/amp/mpl.id.html" />
+    
+    <link rel="stylesheet" type="text/css" href="https://cdn-f.heylink.me/static/dist/css/main-public-user-page.min.css?v=9ac2a59a4a7b299b2c6a02503d7bde01" />
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.css" integrity="sha512-T3VL1q6jMUIzGLRB9z86oJg9PgF7A55eC2XkB93zyWSqQw3Ju+6IEJZYBfT7E9wOHM7HCMCOZSpcssxnUn6AeQ==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://jqueryui.com/resources/demos/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" />
+</head>
+<body>
+    <!-- Background animasi bintang -->
+    <div class="stars"></div>
+    <div class="stars2"></div>
+    <div class="stars3"></div>
+    <div class="night-gradient"></div>
+    
+    <div style="display:none;visibility:hidden;">
+        <div id="i18n-data-copied">Data telah disalin: tempel di mana saja!</div>
+        <div id="i18n-link-copied">Tautan telah disalin: tempel di mana saja!</div>
+        <div id="i18n-cv-copied">Tautan CV telah disalin: tempel di mana saja!</div>
+        <div id="i18n-validation-minlength">Harap masukkan setidaknya 3 karakter.</div>
+        <div id="i18n-validation-email">Ups... harap berikan alamat email yang valid</div>
+        <div id="i18n-validation-phone">Ups... harap berikan nomor telepon yang valid</div>
+        <div id="i18n-validation-required">Bidang ini wajib diisi</div>
+        <div id="i18n-validation-password-match">Kata sandi tidak cocok</div>
+        <div id="i18n-validation-unknown">Kesalahan pendaftaran. Silakan coba dalam beberapa menit.</div>
+        <div id="i18n-validation-too-long">Nilai terlalu panjang untuk bidang ini.</div>
+    </div>
+    
+    <div class="notification__popup" id="notificationPopUp">
+        <div class="notification__wrapper">
+            <div class="notication-text"></div>
+        </div>
+    </div>
+    
+    <div class="content-wrapper" data-afp-number="0">
+        <div class="user-page-section button-style-14" id="userWrapper" data-visitor_country="ID" data-clickurl="https://jali.me/seobanjirr/" data-userid="8667001">
+            <div class="container two-col">
+                <div class="wrapper cover-image-page-layout two-col">
+                    <div class="user-page-section-content two-col">
+                        <div class="user-info-wrapper user-two-col">
+                            <div class="user-info user-info-two-col">
+                                <div class="cover-image-container cover-style-03">
+                                    <div class="lozad cover-image__component" style="background-image:url('https://i.ibb.co/WWt7spmg/hf-20260224-165351-be47e422-aefe-4df5-8435-66e53bf97e6f.jpg'); width: 500px; height: 500px; background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
+                                    
+                                    <div class="button-wrapper">
+                                        <div id="qrCodeIconDropdown" class="preview-share-icon-wrapper qr-code-button" style="background-color: transparent;">
+                                            <div class="preview-share-icon__component qr-code__component">
+                                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 60 60" xml:space="preserve"><style>.st1{fill:rgb(255, 215, 0)}</style><defs><path id="SVGID_1_" d="M0 0h60v60H0z"/></defs><clipPath id="SVGID_2_"><use xlink:href="#SVGID_1_" overflow="visible"/></clipPath><g clip-path="url(#SVGID_2_)"><path class="st1" d="M57.6 34.3h-18c-1.3 0-2.4 1.1-2.4 2.5v20.8c0 1.4 1.1 2.5 2.4 2.5h18c1.3 0 2.4-1.1 2.4-2.5V36.7c0-1.3-1.1-2.4-2.4-2.4zm-2.4 20.8H42V39.2h13.1v15.9zM2.6 23.3h8.2c1.4 0 2.5-1.1 2.5-2.5s-1.1-2.5-2.5-2.5H5.1V5h12.8v9.2c0 1.4 1.1 2.5 2.5 2.5s2.5-1.1 2.5-2.5V2.5C23 1.1 21.8 0 20.4 0H2.6C1.9 0 1.2.3.7.7.3 1.2 0 1.8 0 2.5v18.4c0 1.3 1.2 2.4 2.6 2.4zM2.5 60h15.4c1.4 0 2.5-1.1 2.5-2.5v-15c0-1.4-1.1-2.5-2.5-2.5H2.5C1.1 40 0 41.1 0 42.5v15C0 58.9 1.1 60 2.5 60zm2.6-15h10.3v10.1H5.1V45z"/><path class="st1" d="M28.7 56.7c1.3 0 2.4-1.1 2.4-2.5V28.3h26.4c1.3 0 2.4-1.1 2.4-2.5s-1.1-2.5-2.4-2.5H28.7c-.6 0-1.3.3-1.7.7-.5.5-.7 1.1-.7 1.7v28.4c0 1.5 1.1 2.6 2.4 2.6zM2.4 34.2h16.3c1.3 0 2.4-1.1 2.4-2.5v-5c0-1.4-1.1-2.5-2.4-2.5-1.3 0-2.4 1.1-2.4 2.5v2.5H2.4c-1.3 0-2.4 1.1-2.4 2.5s1.1 2.5 2.4 2.5zM30.4 18c1.3 0 2.4-1.1 2.4-2.5V7.2c0-1.4-1.1-2.5-2.4-2.5-.7 0-1.3.3-1.7.7-.5.6-.7 1.2-.7 1.8v8.4c0 1.3 1 2.4 2.4 2.4zM40.4 18.3h17.2c1.3 0 2.4-1.1 2.4-2.5V2.5C60 1.1 58.9 0 57.6 0H40.4C39.1 0 38 1.1 38 2.5v13.4c0 1.3 1.1 2.4 2.4 2.4zm2.4-13.4h12.3v8.4H42.8V4.9z"/></g></svg>
+                                            </div>
+                                        </div>
+                                        
+                                        <div id="shareIconDropdown" class="preview-share-icon-wrapper" style="background-color: transparent;">
+                                            <div class="preview-share-icon__component">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill="rgb(255, 215, 0)"/></svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <h1 class="username center" style="font-family: 'Montserrat', sans-serif; color: #00d9ff;">BANJIR69 | Main Sekali, Ketagihan Sepanjang Hari! Arena Game Online Paling Hits.</h1>
+                                
+                                <div class="preview-user-description__component" style="font-family: 'Montserrat', sans-serif; color: #E0E0FF;">
+                                    <div class="description-wrapper center">
+                                        <p><strong>Gak bakal bisa berhenti main!” BANJIR69 menghadirkan arena game online paling hits, tiap klik penuh sensasi, tantangan seru, dan keseruan yang bikin ketagihan sepanjang hari. Konsep Anti-Lag untuk HP Kentang berarti BANJIR69 menggunakan server berbasis Lite-Stream yang meringankan beban kerja prosesor ponsel, sehingga pengguna perangkat lama tetap bisa menikmati transisi permainan yang cepat dan peluang menang yang adil.</strong></p>
+                                    </div>
+                                    <div class="description-wrapper center">
+                                        <p><strong>Siapa bilang spek rendah nggak bisa menang mewah? Di BANJIR69, semua pemain punya peluang yang sama! Kami sudah merangkum 7 Game Online Ringan Terbaik tahun 2026 yang dioptimalkan khusus untuk perangkat dengan RAM terbatas. Lupakan masalah force close atau HP panas; koleksi game di BANJIR69 menjamin performa super halus bahkan di 'HP Kentang' sekalipun. Jangan jadikan perangkat sebagai penghalang—akses daftar game ringan kami sekarang, nikmati grafis yang efisien, dan buktikan kalau kemenangan besar bukan cuma milik pengguna HP mahal!</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="blocks-wrapper blocks-wrapper-two-col">
+                            <div class="preview-links-list__component">
+                                <!-- DAFTAR BANJIR69 -->
+                                <div class="preview-link-item__component button-style-14 buzz" id="16385212" data-id="16385212">
+                                    <div class="link-underlayer" data-id="16385212" style="border-color: #00aeff;"></div>
+                                    <a href="https://kingstechhub.com/amp/mpl.id.html" rel="ugc nofollow noopener" target="_blank" data-priority-class="buzz" data-link-type="link" data-action="send_click" data-apiurl="https://jali.me/seobanjirr/" data-userid="8667001" data-linkid="id-142010648789212-0" data-id="16385212" data-pdf="" data-is_expanded="false" data-is_embed="false" data-is_locked="false" class="preview-link-wrapper" style="background: rgba(20, 30, 60, 0.8); border-color: #FFD700; font-family: 'Montserrat', sans-serif;">
+                                        <div class="lozad thumbnail button-thumbnail-style-03" data-background-image="https://tidak-jago-seo.pages.dev/iconapk.png" data-background-delimiter="^"></div>
+                                        <div class="link-info center" data-id="16385212">
+                                            <div class="name" style="color: #cf0f2f;">DAFTAR BANJIR69</div>
+                                        </div>
+                                        <div class="preview-share-icon__component public_link_16385212 link-share-icon" id="public_link_16385212" data-id="publics_link_16385212">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill="#FFD700"/></svg>
+                                        </div>
+                                    </a>
+                                </div>
+                                
+                                <!-- LOGIN BANJIR69 -->
+                                <div class="preview-link-item__component button-style-14 buzz" id="16385204" data-id="16385204">
+                                    <div class="link-underlayer" data-id="16385204" style="border-color: #ff0037;"></div>
+                                    <a href="https://kingstechhub.com/amp/mpl.id.html" rel="ugc nofollow noopener" target="_blank" data-priority-class="buzz" data-link-type="link" data-action="send_click" data-apiurl="https://kingstechhub.com/amp/mpl.id.html" data-userid="8667001" data-linkid="id-142010579453204-0" data-id="16385204" data-pdf="" data-is_expanded="false" data-is_embed="false" data-is_locked="false" class="preview-link-wrapper" style="background: rgba(20, 30, 60, 0.8); border-color: #FFD700; font-family: 'Montserrat', sans-serif;">
+                                        <div class="lozad thumbnail button-thumbnail-style-03" data-background-image="https://tidak-jago-seo.pages.dev/iconapk.png" data-background-delimiter="^"></div>
+                                        <div class="link-info center" data-id="16385204">
+                                            <div class="name" style="color: #0077ff;">LOGIN BANJIR69</div>
+                                        </div>
+                                        <div class="preview-share-icon__component public_link_16385204 link-share-icon" id="public_link_16385204" data-id="publics_link_16385204">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill="#FFD700"/></svg>
+                                        </div>
+                                    </a>
+                                </div>
+                                
+                                <!-- LINK ALTERNATIF BANJIR69 -->
+                                <div class="preview-link-item__component button-style-14 buzz" id="16221711" data-id="16221711">
+                                    <div class="link-underlayer" data-id="16221711" style="border-color: #FFD700;"></div>
+                                    <a href="https://jali.me/seobanjirr/" rel="ugc nofollow noopener" target="_blank" data-priority-class="buzz" data-link-type="link" data-action="send_click" data-apiurl="https://kingstechhub.com/amp/mpl.id.html" data-userid="8667001" data-linkid="id-140593585458711-0" data-id="16221711" data-pdf="" data-is_expanded="false" data-is_embed="false" data-is_locked="false" class="preview-link-wrapper" style="background: rgba(20, 30, 60, 0.8); border-color: #FFD700; font-family: 'Montserrat', sans-serif;">
+                                        <div class="lozad thumbnail button-thumbnail-style-03" data-background-image="https://tidak-jago-seo.pages.dev/iconapk.png" data-background-delimiter="^"></div>
+                                        <div class="link-info center" data-id="16221711">
+                                            <div class="name" style="color: #FFD700;">LINK ALTERNATIF BANJIR69</div>
+                                        </div>
+                                        <div class="preview-share-icon__component public_link_16221711 link-share-icon" id="public_link_16221711" data-id="publics_link_16221711">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill="#FFD700"/></svg>
+                                        </div>
+                                    </a>
+                                </div>
+                                
+                                <!-- LINK RTP BANJIR69 -->
+                                <div class="preview-link-item__component button-style-14 buzz" id="16221736" data-id="16221736">
+                                    <div class="link-underlayer" data-id="16221736" style="border-color: #FFD700;"></div>
+                                    <a href="hhttps://jali.me/seobanjirr/" rel="ugc nofollow noopener" target="_blank" data-priority-class="buzz" data-link-type="link" data-action="send_click" data-apiurl="https://jali.me/seobanjirr/" data-userid="8667001" data-linkid="id-140593802133736-0" data-id="16221736" data-pdf="" data-is_expanded="false" data-is_embed="false" data-is_locked="false" class="preview-link-wrapper" style="background: rgba(20, 30, 60, 0.8); border-color: #FFD700; font-family: 'Montserrat', sans-serif;">
+                                        <div class="lozad thumbnail button-thumbnail-style-03" data-background-image="https://tidak-jago-seo.pages.dev/iconapk.png" data-background-delimiter="^"></div>
+                                        <div class="link-info center" data-id="16221736">
+                                            <div class="name" style="color: #FFD700;">LINK RTP BANJIR69</div>
+                                        </div>
+                                        <div class="preview-share-icon__component public_link_16221736 link-share-icon" id="public_link_16221736" data-id="publics_link_16221736">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill="#FFD700"/></svg>
+                                        </div>
+                                    </a>
+                                </div>
+                                
+                                <!-- LINK RESMI BANJIR69 -->
+                                <div class="preview-link-item__component button-style-14 buzz" id="16221741" data-id="16221741">
+                                    <div class="link-underlayer" data-id="16221741" style="border-color: #FFD700;"></div>
+                                    <a href="https://jali.me/seobanjirr/" rel="ugc nofollow noopener" target="_blank" data-priority-class="buzz" data-link-type="link" data-action="send_click" data-apiurl="https://jali.me/seobanjirr/" data-userid="8667001" data-linkid="id-140593845468741-0" data-id="16221741" data-pdf="" data-is_expanded="false" data-is_embed="false" data-is_locked="false" class="preview-link-wrapper" style="background: rgba(20, 30, 60, 0.8); border-color: #FFD700; font-family: 'Montserrat', sans-serif;">
+                                        <div class="lozad thumbnail button-thumbnail-style-03" data-background-image="https://tidak-jago-seo.pages.dev/iconapk.png" data-background-delimiter="^"></div>
+                                        <div class="link-info center" data-id="16221741">
+                                            <div class="name" style="color: #FFD700;">LINK RESMI BANJIR69</div>
+                                        </div>
+                                        <div class="preview-share-icon__component public_link_16221741 link-share-icon" id="public_link_16221741" data-id="publics_link_16221741">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill="#FFD700"/></svg>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            
+                            <div class="desktop-view-footer" style="margin-top: 30px">
+                                <div class="user-page-section-footer">
+                                    <div class="footer-wrapper logo-position-center">
+                                        <div class="abuse-report small fl-position-center">
+                                            <div class="cookies-wrapper cookies-position-center">
+                                                <div class="data-variables" style="display: none" data-dashboard_url="https://jali.me/seobanjirr/" data-session="id"></div>
+                                                
+                                                <div class="report-abuse-button__component position-center" role="button" tabindex="-1" style="color: #00ffff;">
+                                                    <div class="report-abuse-button-wrapper" id="reportAbuseButton">
+                                                        <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <circle cx="8" cy="8" r="7" stroke="#FFD700" stroke-width="2" />
+                                                            <path d="M8 11V8" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                                            <path d="M7.99 5H8.01" stroke="#FFD700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                                        </svg>
+                                                    </div>
+                                                    <div class="report-abuse-button-info">
+                                                        <div class="report-abuse-button-info-wrapper">
+                                                            <div class="page-report-section">
+                                                                <span><a href="#reportAbuseModal" rel="modal:open" style="color: #00ffdd;">Report abuse</a></span>
+                                                                <div class="cookies-btn-wrapper">
+                                                                    <button id="ot-sdk-btn" class="ot-sdk-show-settings center" style="color: #0044ff; border-color: #0c707e;">Cookies</button>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="logo">
+                                            <div class="preview-heylinkme-logo__component small" data-href="https://kingstechhub.com/amp/mpl.id.html" style="color: #96948c;">
+                                                <img class="lozad small custom-logo" data-src="https://i.ibb.co/xKNbffX6/banjir69-logo-gif-865-x-204.gif" alt="Logo" data-href="https://kingstechhub.com/amp/mpl.id.html" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="paymentLoader" class="commerce-loader">
+        <div class="window">
+            <div class="icon-animation">
+                <img class="img-center" data-image-src="https://cdn-f.heylink.me/static/img/Animation_Loading2.gif" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/ajax-loader.gif" alt="Loader animation" />
+            </div>
+            <div class="text">Making secure payment to</div>
+            <div class="text"><strong>@BANJIR69</strong></div>
+        </div>
+    </div>
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/scripts.min.js?v=9ac2a59a4a7b299b2c6a02503d7bde01"></script>
+    <script type="text/javascript" src="https://cdn-f.heylink.me/static/lib/js/digitalframebuilder.min.js?v=9ac2a59a4a7b299b2c6a02503d7bde01"></script>
+    <script defer type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/rating-page.min.js?v=9ac2a59a4a7b299b2c6a02503d7bde01"></script>
+    <script defer type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Clamp.js/0.5.1/clamp.min.js" integrity="sha512-9PanvIYgF2gT2Yau/uKb9ms+cOBNVo+sQzWDb+nLX5F4FZvEUiuFhKIQPmVU2jCvZKKTVB3Y8giDezNt/1H3xg==" crossorigin="anonymous"></script>
+    <script defer type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/downloadjs/1.4.8/download.min.js" integrity="sha512-WiGQZv8WpmQVRUFXZywo7pHIO0G/o3RyiAJZj8YXNN4AV7ReR1RYWVmZJ6y3H06blPcjJmG/sBpOVZjTSFFlzQ==" crossorigin="anonymous"></script>
+    <script defer type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js" integrity="sha256-+BEKmIvQ6IsL8sHcvidtDrNOdZO3C9LtFPtF2H0dOHI=" crossorigin="anonymous"></script>
+    <script defer type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.js" integrity="sha512-ztxZscxb55lKL+xmWGZEbBHekIzy+1qYKHGZTWZYH1GUwxy0hiA18lW6ORIMj4DHRgvmP/qGcvqwEyFFV7OYVQ==" crossorigin="anonymous"></script>
+    <script defer src="https://cdn-f.heylink.me/static/lib/js/frames.min.js?v=9ac2a59a4a7b299b2c6a02503d7bde01"></script>
+    <script defer type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/vcard.min.js?v=9ac2a59a4a7b299b2c6a02503d7bde01"></script>
+    <script defer type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
+    <script defer type="text/javascript" src="https://js.stripe.com/v3/"></script>
+    <script defer type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/commerce.min.js?v=9ac2a59a4a7b299b2c6a02503d7bde01"></script>
+    <script defer type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/user.min.js?v=9ac2a59a4a7b299b2c6a02503d7bde01"></script>
+    <script defer type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/signup-form.min.js?v=9ac2a59a4a7b299b2c6a02503d7bde01"></script>
+    <script defer type="text/javascript" src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+    <script defer type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/locked-links.min.js?v=9ac2a59a4a7b299b2c6a02503d7bde01"></script>
+    
+    <script type="text/javascript">
+        const observer = window.lozad();
+        observer.observe();
+    </script>
+</body>
+</html>
