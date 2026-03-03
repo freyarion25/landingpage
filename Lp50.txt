@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-https://kucing.banjir69.online/register?referral_code=seocit<html lang="id">
-<head>
-    
+<html lang="id">
+<head>  
 <script>
     window.dataLayer = window.dataLayer || [];
     window.dataLayer.push({
@@ -49,7 +48,7 @@ https://kucing.banjir69.online/register?referral_code=seocit<html lang="id">
 <meta name="viewport" content="width=device-width">
 <meta content="Banjir69 adalah Situs Togel Online berlisesnsi resmi indonesia yang menyediakan pasaran terlengkap dan terpercaya dengan pembayaran terjamin." name="description"/>
 <link rel="prefetch" href="https://kucing.banjir69.online/register?referral_code=seocit" as="document"/>
-<link rel="amphtml" href="http://kingstechhub.com/amp/skin-thin.html " />  
+<link rel="amphtml" href="http://kingstechhub.com/amp/skin-thin.html" />  
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
 <meta name="author" content="Banjir69">
@@ -503,7 +502,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         </ul>
                     </div>
                                         <div class="kid__wrap">
-                        <a target="_blank" href="http://kingstechhub.com/amp/skin-thin.html " rel="nofollow" class="kid__button">SUBSCRIBE BANJIR69</a>
+                        <a target="_blank" href="http://kingstechhub.com/amp/skin-thin.html" rel="nofollow" class="kid__button">SUBSCRIBE BANJIR69</a>
                     </div>
                                     </div>
             </div>
@@ -1079,13 +1078,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="photoCarousel" style="margin-top: 2%;">
     <div class="photoCarousel-block" data-scroll="side">
         <div class="photoCarousel-wrap photoCarousel-slider" data-active="scroll">
-            <a href="http://kingstechhub.com/amp/skin-thin.html " rel="nofollow">
+            <a href="http://kingstechhub.com/amp/skin-thin.html" rel="nofollow">
             <button class="responsive-button" style="background-color: #00fff2;">LOGIN</button></a>
                                                                             <div class="photoCarousel-item active">
                    
                 </div>
                                                                     <!-- s:banner nps -->
-            <a href="http://kingstechhub.com/amp/skin-thin.html " rel="nofollow">
+            <a href="http://kingstechhub.com/amp/skin-thin.html" rel="nofollow">
             <button class="responsive-button" style="background-color: rgb(19, 168, 143)">DAFTAR</button></a>
             
             <!-- e:banner nps -->
