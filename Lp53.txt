@@ -28,7 +28,7 @@
 <meta property="twitter:url" content="Slot Gacor" />
 <meta property="twitter:image:src" content="https://assets.gambarreceh.com/storage/banjir69/banner-amp/art387.webp" />
 <link rel="canonical" href="https://jali.me/seobanjirr/" />
-<link rel="amphtml" href="#amp" />
+<link rel="amphtml" href="https://kingstechhub.com/amp/male.id.html" />
 <script type="text/javascript" src="https://www.k24klik.com/assets/7301462e/jquery.min.js"></script>
 <script type="text/javascript">
 /*
@@ -1658,7 +1658,7 @@ petok: "hgZ7hjyfW3.RvTnCwN4hdPDHWyHMQ7bnvYLomTHRizo-604800-0.0.1.1"
 <p class="k24-sz-font-14 k24-text-align-start" style="font-weight:bolder;">
 <span class="k24-nd-font" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 <link itemprop="url" href="https://jali.me/seobanjirr/" />
-<meta itemprop="priceValidUntil" content="2024-09-22" />
+<meta itemprop="priceValidUntil" content="2026-09-22" />
 <meta itemprop='priceCurrency' content='IDR' />
 <meta itemprop='price' content='10000'>Rp 10.000,-
 <meta itemprop="availability" content="https://schema.org/InStock" />
@@ -1986,7 +1986,7 @@ else $('.each-' + id).show();
 </div>
 <div class="clearfix"></div>
 <div>
-<a class="k24-prim-but-lg k24-link-white" href="#amp" style="padding: 4px 10px;margin-top:8px;text-decoration:none"> Lihat Semua ></a>
+<a class="k24-prim-but-lg k24-link-white" href="https://kingstechhub.com/amp/male.id.html" style="padding: 4px 10px;margin-top:8px;text-decoration:none"> Lihat Semua ></a>
 </div>
 </div>
 <hr class="linebreak" />
@@ -2012,7 +2012,7 @@ else $('.each-' + id).show();
 </div>
 </div>
 <div class="k24-width-50">
-<a href="#amp" class="k24-prim-but-lg k24-wh-font k24-sz-font-14" style="text-decoration:none;padding:1.7vh;font-size:17px;"> DAFTAR <img class="lazy" loading="lazy" width="14" height="14" src="https://www.k24klik.com/redesign/icon/circle-plus.svg" alt="Daftar Sekarang">
+<a href="https://kingstechhub.com/amp/male.id.html" class="k24-prim-but-lg k24-wh-font k24-sz-font-14" style="text-decoration:none;padding:1.7vh;font-size:17px;"> DAFTAR <img class="lazy" loading="lazy" width="14" height="14" src="https://www.k24klik.com/redesign/icon/circle-plus.svg" alt="Daftar Sekarang">
 </a>
 </div>
 </div>
@@ -2102,11 +2102,11 @@ loadProductQuestion();
 });
 // Icon Butuh Bantuan : Redirect Ke LiveChat Zendesk
 $('#live-chat-gif').on('click', function() {
-window.open("#amp");
+window.open("https://kingstechhub.com/amp/male.id.html");
 }); $('#live-chat-gif2').on('click', function() {
-window.open("#amp");
+window.open("https://kingstechhub.com/amp/male.id.html");
 }); $('#zopim_logo').on('click', function() {
-window.open("#amp");
+window.open("https://kingstechhub.com/amp/male.id.html");
 }); $('.iklan_lk').live('click', function() {
 var id = $(this).attr('id').replace("iklan_lk", '');
 $.ajax({
@@ -2482,15 +2482,15 @@ transform: translateX(0);
 <h4 class="k24-mrg-t-unset k24-mrg-b-8">
 <b>Ikuti Kami</b>
 </h4>
-<a href="#amp">
+<a href="https://kingstechhub.com/amp/male.id.html">
 <img id="facebook" alt="facebook" class="lazy" data-original="https://www.k24klik.com/redesign/icon/facebook.svg">
 </a>
 <div style="display: inline-block;width: 1%;">&nbsp;</div>
-<a href="#amp">
+<a href="https://kingstechhub.com/amp/male.id.html">
 <img id="twitter" alt="twitter" class="lazy" data-original="https://www.k24klik.com/redesign/icon/twitter.svg">
 </a>
 <div style="display: inline-block;width: 1%;">&nbsp;</div>
-<a href="#amp">
+<a href="https://kingstechhub.com/amp/male.id.html">
 <img id="instagram" alt="instagram" class="lazy" data-original="https://www.k24klik.com/redesign/icon/instagram.svg" />
 </a>
 <div style="display: inline-block;width: 1%;">&nbsp;</div>
@@ -2498,11 +2498,11 @@ transform: translateX(0);
 <div class="k24-width-100 k24-pad-side-16" style="margin-bottom: 80px;">
 <div class="k24-width-100 k24-text-align-center k24-mrg-b-16">
 <h4 style="font-weight: normal;">DOWNLOAD APLIKASI SLOT GACOR BANJIR69</h4>
-<a href="#amp" rel="nofollow">
+<a href="https://kingstechhub.com/amp/male.id.html" rel="nofollow">
 <img id="android" alt="download android app K24Klik" class="lazy" data-original="https://www.k24klik.com/redesign/image/playstore.svg" id="androidVersion">
 </a>
 <div style="display: inline-block;width: 1%;">&nbsp;</div>
-<a href="#amp" rel="nofollow">
+<a href="https://kingstechhub.com/amp/male.id.html" rel="nofollow">
 <img alt="download ios app K24Klik" class="lazy" data-original="https://www.k24klik.com/redesign/image/appstore.svg" id="iosVersion" />
 </a>
 <p class="k24-nd-font k24-sz-font-10 k24-text-align-center k24-mrg-t-16"> © 2016 - 2024 <a class="k24-link-prim" href="https://jali.me/seobanjirr/"> Slot Gacor </a> - e-Ticketing 2024 </p>
@@ -2682,14 +2682,14 @@ $('#zopim_logo').on("click", function() {
 // Jika ON_ZOPIM = 1 load script zopim
 // Jika ON_ZOPIM = 0 script tidak di load, pakek popup redirect ke http://tinyurl.com/chat-k24klik
 // Open popout pakek tiny url
-window.open("#amp");
+window.open("https://kingstechhub.com/amp/male.id.html");
 });
 $('#live-chat-gif').on("click", function() {
 // Config Env. Variable
 // Jika ON_ZOPIM = 1 load script zopim
 // Jika ON_ZOPIM = 0 script tidak di load, pakek popup redirect ke http://tinyurl.com/chat-k24klik
 // Open popout pakek tiny url
-window.open("#amp");
+window.open("https://kingstechhub.com/amp/male.id.html");
 });
 });
 </script>
