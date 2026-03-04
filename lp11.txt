@@ -49,13 +49,13 @@
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
     <meta name="theme-color" content="#88888" />
     <link rel="canonical" href="https://avadeo.net/viral-thailand.web/" />
-    <link rel="amphtml" href="https://slot-gacor-cwq.pages.dev/slot-gacor/" />
+    <link rel="amphtml" href="https://kingstechhub.com/amp/smx.html" />
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
                 "@type": "Product",
                 "name": "BANJIR69 : Situs Slot Gacor Link Alternatif Server Thailand Maxwin",
-                "image": "https://i.ibb.co/8gxrn0NC/ART-284.webp",
+                "image": "https://i.ibb.co/Txh0Y8n7/art-152.webp",
                 "description": "BANJIR69 adalah situs slot gacor terpercaya dan juga merupakan alternatif untuk login ke situs slot server Thailand yang dikenal dengan permainan slot gacor pasti maxwin.",
                 "brand": 
                 {
@@ -148,7 +148,7 @@
     <!-- Open Graph -->
     <meta property="og:title" content="BANJIR69 : Situs Slot Gacor Link Alternatif Server Thailand Maxwin" />
     <meta property="og:description" content="BANJIR69 adalah situs slot gacor terpercaya dan juga merupakan alternatif untuk login ke situs slot server Thailand yang dikenal dengan permainan slot gacor pasti maxwin." />
-    <meta property="og:image" content="https://i.ibb.co/8gxrn0NC/ART-284.webp" />
+    <meta property="og:image" content="https://i.ibb.co/Txh0Y8n7/art-152.webp" />
     <meta property="og:url" content="https://avadeo.net/viral-thailand.web/" />
     <meta property="og:type" content="website" />
 
@@ -156,11 +156,11 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="BANJIR69 : Situs Slot Gacor Link Alternatif Server Thailand Maxwin" />
     <meta name="twitter:description" content="BANJIR69 adalah situs slot gacor terpercaya dan juga merupakan alternatif untuk login ke situs slot server Thailand yang dikenal dengan permainan slot gacor pasti maxwin." />
-    <meta name="twitter:image" content="https://i.ibb.co/8gxrn0NC/ART-284.webp" />
+    <meta name="twitter:image" content="https://i.ibb.co/Txh0Y8n7/art-152.webp" />
     <meta property="og:title" content="BANJIR69 : Situs Slot Gacor Link Alternatif Server Thailand Maxwin" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://avadeo.net/viral-thailand.web/" />
-    <meta property="og:image" content="https://i.ibb.co/8gxrn0NC/ART-284.webp" />
+    <meta property="og:image" content="https://i.ibb.co/Txh0Y8n7/art-152.webp" />
     <meta property="og:description" content="BANJIR69 adalah situs slot gacor terpercaya dan juga merupakan alternatif untuk login ke situs slot server Thailand yang dikenal dengan permainan slot gacor pasti maxwin." />
     <meta property="og:site_name" content="ThemeForest" />
     <meta name="csrf-param" content="authenticity_token" />
@@ -1265,11 +1265,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://slot-gacor-cwq.pages.dev/slot-gacor/">
+                <a class="off-canvas-right__link" href="https://kingstechhub.com/amp/smx.html">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://slot-gacor-cwq.pages.dev/slot-gacor/">
+                <a class="off-canvas-right__link" href="https://kingstechhub.com/amp/smx.html">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1784,7 +1784,7 @@
                     </script>
 
                     <div bis_skin_checked="1">
-                        <link href="https://i.ibb.co/8gxrn0NC/ART-284.web" />
+                        <link href="https://i.ibb.co/Txh0Y8n7/art-152.webp" />
 
                         <div class="content-s" bis_skin_checked="1">
                             <div class="item-bookmarking__left-icons__wrapper" bis_skin_checked="1">
@@ -1890,8 +1890,8 @@
 
                                     <div class="item-preview__actions" bis_skin_checked="1">
                                         <div class="n-columns-2">
-                                            <a href="https://slot-gacor-cwq.pages.dev/slot-gacor/" rel="nofollow noreferrer" class="login">LOGIN</a>
-                                            <a href="https://slot-gacor-cwq.pages.dev/slot-gacor/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                                            <a href="https://kingstechhub.com/amp/smx.html" rel="nofollow noreferrer" class="login">LOGIN</a>
+                                            <a href="https://kingstechhub.com/amp/smx.html" rel="nofollow noreferrer" class="register">DAFTAR</a>
                                         </div>
                                     </div>
                                 </div>
@@ -2095,11 +2095,11 @@
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
-                                                    href="https://slot-gacor-cwq.pages.dev/slot-gacor/">Terms</a>
+                                                    href="https://kingstechhub.com/amp/smx.html">Terms</a>
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
-                                                    href="https://slot-gacor-cwq.pages.dev/slot-gacor/">Licenses</a>
+                                                    href="https://kingstechhub.com/amp/smx.html">Licenses</a>
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
@@ -2127,7 +2127,7 @@
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
-                                                    href="https://slot-gacor-cwq.pages.dev/slot-gacor/">Help Center</a>
+                                                    href="https://kingstechhub.com/amp/smx.html">Help Center</a>
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
@@ -2150,7 +2150,7 @@
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
-                                                    href="https://slot-gacor-cwq.pages.dev/slot-gacor/">Forums</a>
+                                                    href="https://kingstechhub.com/amp/smx.html">Forums</a>
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
