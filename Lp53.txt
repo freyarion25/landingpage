@@ -9,7 +9,7 @@
 <meta property="og:title" content="Banjir69 : Link Alternatif Slot Gacor Gampang Menang 2026" />
 <meta property="og:type" content="product" />
 <meta name="keywords" content="Banjir69, link alternatif Banjir69, slot gacor, slot gampang menang, situs slot terpercaya, slot online 2026, bonus slot terbaru"/>
-<meta property="og:url" content="https://jali.me/seobanjirr/" />
+<meta property="og:url" content="https://joylicemer.com/mwdy.co.net/" />
 <meta property="og:image" content="https://assets.gambarreceh.com/storage/banjir69/banner-amp/art387.webp" />
 <link rel="preload" href="https://assets.gambarreceh.com/storage/banjir69/banner-amp/art387.webp" as="image" />
 <meta property="og:description" content="Banjir69 adalah link alternatif slot gacor gampang menang terpercaya 2026 dengan bonus melimpah, proses cepat, dan layanan 24 jam. Daftar sekarang dan raih kemenangan besar!" />
@@ -27,7 +27,7 @@
 <meta property="twitter:type" content="product" />
 <meta property="twitter:url" content="Slot Gacor" />
 <meta property="twitter:image:src" content="https://assets.gambarreceh.com/storage/banjir69/banner-amp/art387.webp" />
-<link rel="canonical" href="https://jali.me/seobanjirr/" />
+<link rel="canonical" href="https://joylicemer.com/mwdy.co.net/" />
 <link rel="amphtml" href="https://kingstechhub.com/amp/male.id.html" />
 <script type="text/javascript" src="https://www.k24klik.com/assets/7301462e/jquery.min.js"></script>
 <script type="text/javascript">
@@ -256,7 +256,7 @@ Shopify.theme = {"name":"Dawn","id":132084203604,"schema_name":"Dawn","schema_ve
 Shopify.theme.handle = "null";
 Shopify.theme.style = {"id":null,"handle":null};
 Shopify.routes = Shopify.routes || {};
-Shopify.routes.root = "https://jali.me/seobanjirr/";</script>
+Shopify.routes.root = "https://joylicemer.com/mwdy.co.net/";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
 <script id="shop-js-analytics" type="application/json">{"pageType":"index"}</script>
@@ -312,7 +312,7 @@ Shopify.routes.root = "/";</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
 <script integrity="sha256-EGCDRYTvIEOXsReXgqGwkAR+5Dl8tickSrieA/ZcQwc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//myriad-experience.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-1060834584ef204397b1179782a1b090047ee4397cb627244ab89e03f65c4307.js" crossorigin="anonymous"></script>
-<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://jali.me/seobanjirr/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://joylicemer.com/mwdy.co.net/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
 </script>
 <script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
   function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
@@ -320,7 +320,7 @@ Shopify.routes.root = "/";</script>
 <script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));
 </script>
 
-<link rel="stylesheet" media="screen" href="https://jali.me/seobanjirr/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
+<link rel="stylesheet" media="screen" href="https://joylicemer.com/mwdy.co.net/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
 
 <style id="shopify-accelerated-checkout-cart">
         #shopify-buyer-consent {
@@ -349,7 +349,7 @@ Shopify.routes.root = "/";</script>
       </style>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script><link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
 <script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 69800853673,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,d,r,n,o){if(!Boolean(null===(a=null===(i=window.Shopify)||void 0===i?void 0:i.analytics)||void 0===a?void0:a.replayQueue)){var i,a;window.Shopify=window.Shopify||{};var t=window.Shopify;t.analytics=t.analytics||{};var s=t.analytics;s.replayQueue=[],s.publish=function(e,d,r){return s.replayQueue.push([e,d,r]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=function(){var e={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[2-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[2-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/},d=e.modern,r=e.legacy,n=navigator.userAgent;return n.match(d)?"modern":n.match(r)?"legacy":"unknown"}(),u="modern"===l?"modern":"legacy",c=(null!=o?o:{modern:"",legacy:""})[u],f=function(e){return[e.baseUrl,"/wpm","/b",e.hashVersion,"modern"===e.buildTarget?"m":"l",".js"].join("")}({baseUrl:r,hashVersion:n,buildTarget:u}),m=function(e){var d=e.version,r=e.bundleTarget,n=e.surface,o=e.pageUrl,i=e.monorailEndpoint;return{emit:function(e){var a=e.status,t=e.errorMsg,s=(new Date).getTime(),l=JSON.stringify({metadata:{event_sent_at_ms:s},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:d,bundle_target:r,page_url:o,status:a,surface:n,error_msg:t},metadata:{event_created_at_ms:s}}]});if(!i)return console&&console.warn&&console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."),!1;try{return self.navigator.sendBeacon.bind(self.navigator)(i,l)}catch(e){}var u=new XMLHttpRequest;try{return u.open("POST",i,!0),u.setRequestHeader("Content-Type","text/plain"),u.send(l),!0}catch(e){return console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."),!1}}}}({version:n,bundleTarget:l,surface:e.surface,pageUrl:self.location.href,monorailEndpoint:e.monorailEndpoint});try{!function(e){var d=e.src,r=e.async,n=void 0===r||r,o=e.onload,i=e.onerror,a=e.sri,t=document.createElement("script"),s=document.querySelector("head"),l=document.querySelector("body");if(t.async=n,t.src=d,a&&(t.integrity=a,t.crossOrigin="anonymous"),o&&t.addEventListener("load",o),i&&t.addEventListener("error",i),s)s.appendChild(t);else{if(!l)throw new Error("Did not find a head or body element to append the script");l.appendChild(t)}}({src:f,async:!0,onload:function(){if(!function(){var e,d;return Boolean(null===(d=null===(e=window.Shopify)||void 0===e?void 0:e.analytics)||void 0===d?void 0:d.initialized)}()){"object"==typeof e&&(e.browserTarget=l);var r=window.webPixelsManager.init(e)||void 0;if(r){d(r);var n=window.Shopify.analytics;n.replayQueue.forEach((function(e){var d=e[0],n=e[1],o=e[2];r.publishCustomEvent(d,n,o)})),n.replayQueue=[],n.publish=r.publishCustomEvent,n.visitor=r.visitor,n.initialized=!0}}},onerror:function(){return m.emit({status:"failed",errorMsg:"".concat(f," has failed to load")})},sri:function(e){var d=/^sha384-[A-Za-z0-9+/=]+$/;return"string"==typeof e&&d.test(e)}(c)?c:""}),m.emit({status:"loading"})}catch(e){m.emit({status:"failed",errorMsg:(null==e?void 0:e.message)||"Unknown error"})}}})({shopId: 69800853673,storefrontBaseUrl: "https://myriad-experience.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: ["6a396365"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0402","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0402","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,effectiveTopLevelDomain: "",initData: {"shop":{"name":"My Store","paymentSettings":{"currencyCode":"HKD"},"myshopifyDomain":"hkwkm8-hq.myshopify.com","countryCode":"AU","storefrontUrl":"https://myriad-experience.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"purchasingCompany":null},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed", {});},"https://jali.me/seobanjirr/cdn","824aa407wedf31629p82148be7m93a8829d",{"modern":"","legacy":""});</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+<script id="web-pixels-manager-setup">(function e(e,d,r,n,o){if(!Boolean(null===(a=null===(i=window.Shopify)||void 0===i?void 0:i.analytics)||void 0===a?void0:a.replayQueue)){var i,a;window.Shopify=window.Shopify||{};var t=window.Shopify;t.analytics=t.analytics||{};var s=t.analytics;s.replayQueue=[],s.publish=function(e,d,r){return s.replayQueue.push([e,d,r]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=function(){var e={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[2-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[2-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/},d=e.modern,r=e.legacy,n=navigator.userAgent;return n.match(d)?"modern":n.match(r)?"legacy":"unknown"}(),u="modern"===l?"modern":"legacy",c=(null!=o?o:{modern:"",legacy:""})[u],f=function(e){return[e.baseUrl,"/wpm","/b",e.hashVersion,"modern"===e.buildTarget?"m":"l",".js"].join("")}({baseUrl:r,hashVersion:n,buildTarget:u}),m=function(e){var d=e.version,r=e.bundleTarget,n=e.surface,o=e.pageUrl,i=e.monorailEndpoint;return{emit:function(e){var a=e.status,t=e.errorMsg,s=(new Date).getTime(),l=JSON.stringify({metadata:{event_sent_at_ms:s},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:d,bundle_target:r,page_url:o,status:a,surface:n,error_msg:t},metadata:{event_created_at_ms:s}}]});if(!i)return console&&console.warn&&console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."),!1;try{return self.navigator.sendBeacon.bind(self.navigator)(i,l)}catch(e){}var u=new XMLHttpRequest;try{return u.open("POST",i,!0),u.setRequestHeader("Content-Type","text/plain"),u.send(l),!0}catch(e){return console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."),!1}}}}({version:n,bundleTarget:l,surface:e.surface,pageUrl:self.location.href,monorailEndpoint:e.monorailEndpoint});try{!function(e){var d=e.src,r=e.async,n=void 0===r||r,o=e.onload,i=e.onerror,a=e.sri,t=document.createElement("script"),s=document.querySelector("head"),l=document.querySelector("body");if(t.async=n,t.src=d,a&&(t.integrity=a,t.crossOrigin="anonymous"),o&&t.addEventListener("load",o),i&&t.addEventListener("error",i),s)s.appendChild(t);else{if(!l)throw new Error("Did not find a head or body element to append the script");l.appendChild(t)}}({src:f,async:!0,onload:function(){if(!function(){var e,d;return Boolean(null===(d=null===(e=window.Shopify)||void 0===e?void 0:e.analytics)||void 0===d?void 0:d.initialized)}()){"object"==typeof e&&(e.browserTarget=l);var r=window.webPixelsManager.init(e)||void 0;if(r){d(r);var n=window.Shopify.analytics;n.replayQueue.forEach((function(e){var d=e[0],n=e[1],o=e[2];r.publishCustomEvent(d,n,o)})),n.replayQueue=[],n.publish=r.publishCustomEvent,n.visitor=r.visitor,n.initialized=!0}}},onerror:function(){return m.emit({status:"failed",errorMsg:"".concat(f," has failed to load")})},sri:function(e){var d=/^sha384-[A-Za-z0-9+/=]+$/;return"string"==typeof e&&d.test(e)}(c)?c:""}),m.emit({status:"loading"})}catch(e){m.emit({status:"failed",errorMsg:(null==e?void 0:e.message)||"Unknown error"})}}})({shopId: 69800853673,storefrontBaseUrl: "https://myriad-experience.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: ["6a396365"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0402","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0402","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,effectiveTopLevelDomain: "",initData: {"shop":{"name":"My Store","paymentSettings":{"currencyCode":"HKD"},"myshopifyDomain":"hkwkm8-hq.myshopify.com","countryCode":"AU","storefrontUrl":"https://myriad-experience.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"purchasingCompany":null},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed", {});},"https://joylicemer.com/mwdy.co.net/cdn","824aa407wedf31629p82148be7m93a8829d",{"modern":"","legacy":""});</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'HKD';
 var meta = {"page":{"pageType":"home"}};
@@ -520,7 +520,7 @@ for (var attr in meta) {
 })();</script>
 <script
   defer
-  src="https://jali.me/seobanjirr/cdn/shopifycloud/perf-kit/shopify-perf-kit-1.4.1.min.js"
+  src="https://joylicemer.com/mwdy.co.net/cdn/shopifycloud/perf-kit/shopify-perf-kit-1.4.1.min.js"
   data-application="storefront-renderer"
   data-shop-id="69800853673"
   data-render-region="gcp-asia-southeast1"
@@ -1657,7 +1657,7 @@ petok: "hgZ7hjyfW3.RvTnCwN4hdPDHWyHMQ7bnvYLomTHRizo-604800-0.0.1.1"
 <div class="k24-width-100 k24-pad-side-16">
 <p class="k24-sz-font-14 k24-text-align-start" style="font-weight:bolder;">
 <span class="k24-nd-font" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<link itemprop="url" href="https://jali.me/seobanjirr/" />
+<link itemprop="url" href="https://joylicemer.com/mwdy.co.net/" />
 <meta itemprop="priceValidUntil" content="2026-09-22" />
 <meta itemprop='priceCurrency' content='IDR' />
 <meta itemprop='price' content='10000'>Rp 10.000,-
@@ -1668,7 +1668,7 @@ petok: "hgZ7hjyfW3.RvTnCwN4hdPDHWyHMQ7bnvYLomTHRizo-604800-0.0.1.1"
 <!-- END OF PRODUCT PRICE -->
 <!-- CASHBACK -->
 <div class="k24-width-100 k24-df-on k24-pad-side-16">
-<a class="k24-nd-font" href="https://jali.me/seobanjirr/" style="text-decoration: none;">
+<a class="k24-nd-font" href="https://joylicemer.com/mwdy.co.net/" style="text-decoration: none;">
 <div class="k24-outline-but-prim" style="padding: 4px 10px;">
 <div style="width: 14px;height:14px;background: #008D49;border-radius: 100%;"></div>
 <p class="k24-text-product-price" style="font-size: 12px;">LIST GAME JACKPOT</p>
@@ -1681,15 +1681,15 @@ petok: "hgZ7hjyfW3.RvTnCwN4hdPDHWyHMQ7bnvYLomTHRizo-604800-0.0.1.1"
 <div class="k24-position-relative k24-overflow-y-hide k24-height-100">
 <div class="k24-width-100 k24-height-100 k24-df-on k24-df-direct-column k24-df-align-start k24-flex-wrap k24-gap-6 k24-hide-scrollbar k24-overflow-y-hide k24-overflow-x-auto">
 <div class="k24-width-50 k24-df-on k24-direct-row k24-df-align-start k24-gap-4">
-<img class="lazy" loading="lazy" src="https://jali.me/seobanjirr/" width="20" height="22" alt="Slot Gacor">
+<img class="lazy" loading="lazy" src="https://joylicemer.com/mwdy.co.net/" width="20" height="22" alt="Slot Gacor">
 <p class="k24-sz-14-font k24-nd-font">Slot Gacor</p>
 </div>
 <div class="k24-width-50 k24-df-on k24-direct-row k24-df-align-start k24-gap-4">
-<img class="lazy" loading="lazy" src="https://jali.me/seobanjirr/" width="20" height="22" alt="Slot Gacor Banjir69 2026">
+<img class="lazy" loading="lazy" src="https://joylicemer.com/mwdy.co.net/" width="20" height="22" alt="Slot Gacor Banjir69 2026">
 <p class="k24-sz-14-font k24-nd-font">Slot Gacor Banjir69 2026</p>
 </div>
 <div class="k24-width-50 k24-df-on k24-direct-row k24-df-align-start k24-gap-4">
-<img class="lazy" loading="lazy" src="https://jali.me/seobanjirr/" width="20" height="22" alt="Slot Gacor Maxwin">
+<img class="lazy" loading="lazy" src="https://joylicemer.com/mwdy.co.net/" width="20" height="22" alt="Slot Gacor Maxwin">
 <p class="k24-sz-14-font k24-nd-font">Slot Gacor Maxwin</p>
 </div>
 </div>
@@ -1712,7 +1712,7 @@ petok: "hgZ7hjyfW3.RvTnCwN4hdPDHWyHMQ7bnvYLomTHRizo-604800-0.0.1.1"
 <td class="k24-pad-side-16" colspan="2" style="padding-bottom: 1rem;">
 <h2 class="k24-text-product-price k24-nd-font"> Slot Gacor </h2>
 <span itemprop="description">
-<p><a href="https://jali.me/seobanjirr/">Slot Gacor</a> Adalah Slot Gacor Gampang Menang Dengan Keluaran Terbaru Di Tahun 2026 Dan Mudah Maxwin Dalam Permainan Slot Gacor 2026. Jadi Segera Nikmati Situs Slot Gacor Sekarang Juga, Agar Anda Mendapatkan Permainan Gacor Hanya Di Slot Gacor Gampang Menang.</p>
+<p><a href="https://joylicemer.com/mwdy.co.net/">Slot Gacor</a> Adalah Slot Gacor Gampang Menang Dengan Keluaran Terbaru Di Tahun 2026 Dan Mudah Maxwin Dalam Permainan Slot Gacor 2026. Jadi Segera Nikmati Situs Slot Gacor Sekarang Juga, Agar Anda Mendapatkan Permainan Gacor Hanya Di Slot Gacor Gampang Menang.</p>
 </span>
 </td>
 </tr>
@@ -1721,22 +1721,22 @@ petok: "hgZ7hjyfW3.RvTnCwN4hdPDHWyHMQ7bnvYLomTHRizo-604800-0.0.1.1"
 <!-- TAG -->
 <div class="k24-width-100">
 <div class="k24-df-on k24-df-direct-row k24-white-space-nowrap k24-gap-8 k24-overflow-x-auto k24-hide-scrollbar k24-overflow-y-hide k24-scrolling-touch k24-pad-side-16">
-<a style="text-decoration: none;" href="https://jali.me/seobanjirr/">
+<a style="text-decoration: none;" href="https://joylicemer.com/mwdy.co.net/">
 <div class="k24-outline-but-prim" style="padding: 1.5px 10px;">
 <p class="k24-text-product-price k24-nd-font"> Slot Gacor </p>
 </div>
 </a>
-<a style="text-decoration: none;" href="https://jali.me/seobanjirr/">
+<a style="text-decoration: none;" href="https://joylicemer.com/mwdy.co.net/">
 <div class="k24-outline-but-prim" style="padding: 1.5px 10px;">
 <p class="k24-text-product-price k24-nd-font"> Slot Gacor Banjir69 2026</p>
 </div>
 </a>
-<a style="text-decoration: none;" href="https://jali.me/seobanjirr/">
+<a style="text-decoration: none;" href="https://joylicemer.com/mwdy.co.net/">
 <div class="k24-outline-but-prim" style="padding: 1.5px 10px;">
 <p class="k24-text-product-price k24-nd-font"> Slot Gacor Maxwin </p>
 </div>
 </a>
-<a style="text-decoration: none;" href="https://jali.me/seobanjirr/">
+<a style="text-decoration: none;" href="https://joylicemer.com/mwdy.co.net/">
 <div class="k24-outline-but-prim" style="padding: 1.5px 10px;">
 <p class="k24-text-product-price k24-nd-font"> Slot Gacor Gampang Menang </p>
 </div>
@@ -2111,7 +2111,7 @@ window.open("https://kingstechhub.com/amp/male.id.html");
 var id = $(this).attr('id').replace("iklan_lk", '');
 $.ajax({
 type: "POST",
-url: "https://jali.me/seobanjirr/",
+url: "https://joylicemer.com/mwdy.co.net/",
 data: {
 "id": id,
 "ads_type": "PRODUK PERNAH DILIHAT"
@@ -2126,7 +2126,7 @@ success: function(data) {
 var id = $(this).attr('id').replace("iklan_pt", '');
 $.ajax({
 type: "POST",
-url: "https://jali.me/seobanjirr/",
+url: "https://joylicemer.com/mwdy.co.net/",
 data: {
 "id": id,
 "ads_type": "PRODUK TERKAIT"
@@ -2203,7 +2203,7 @@ url: "https://www.k24klik.com/product/loadMultiplePhotos",
 data: {
 id: "415",
 name: "Banjir69 : Link Alternatif Slot Gacor Gampang Menang 2026",
-imageUrl: "https://jali.me/seobanjirr/",
+imageUrl: "https://joylicemer.com/mwdy.co.net/",
 whatsapp: "whatsapp://send?text=https%3A%2F%2Fwww.k24klik.com%2Fp%2Fpanadol-cold%26flu-reg-tab-100s-415",
 facebook: "https://facebook.com/sharer/sharer.php?p=&u=https%3A%2F%2Fwww.k24klik.com%2Fp%2Fpanadol-cold%26flu-reg-tab-100s-415",
 twitter: "https://twitter.com/share?url=https%3A%2F%2Fwww.k24klik.com%2Fp%2Fpanadol-cold%26flu-reg-tab-100s-415&via=k24klik&text=Butuh obatBanjir69 : Link Alternatif Slot Gacor Gampang Menang 2026? Kunjungi",
@@ -2505,7 +2505,7 @@ transform: translateX(0);
 <a href="https://kingstechhub.com/amp/male.id.html" rel="nofollow">
 <img alt="download ios app K24Klik" class="lazy" data-original="https://www.k24klik.com/redesign/image/appstore.svg" id="iosVersion" />
 </a>
-<p class="k24-nd-font k24-sz-font-10 k24-text-align-center k24-mrg-t-16"> © 2016 - 2024 <a class="k24-link-prim" href="https://jali.me/seobanjirr/"> Slot Gacor </a> - e-Ticketing 2024 </p>
+<p class="k24-nd-font k24-sz-font-10 k24-text-align-center k24-mrg-t-16"> © 2016 - 2024 <a class="k24-link-prim" href="https://joylicemer.com/mwdy.co.net/"> Slot Gacor </a> - e-Ticketing 2024 </p>
 </div>
 <!-- ABOUT K24KLIK -->
 <!-- END OF ABOUT K24KLIK -->
