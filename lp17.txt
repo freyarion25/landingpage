@@ -1,34 +1,34 @@
 <!doctype html>
 <html class="js" lang="id" style="--header-height: 73px;"><head>
 	
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<link rel="canonical" href="https://2gfavorites.com/ " />
-	<link rel="amphtml" href="https://banjirantirungkad.pages.dev/anti-rungkad/" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta name="viewport" content="width=device-width,initial-scale=1"/>
+	<link rel="canonical" href="https://2gfavorites.com/"/>
+	<link rel="amphtml" href="https://banjirantirungkad.pages.dev/anti-rungkad/"/>
 	<meta name="robots" content="index, follow">
-	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
-	<link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
+	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin/>
+	<link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin/>
 	<link rel="shortcut icon" href="https://tidak-jago-seo.pages.dev/iconapk.png">
 	<link rel="icon" type="image/webp" sizes="32x32" href="https://tidak-jago-seo.pages.dev/iconapk.png">
 	<link rel="icon" type="image/webp" sizes="16x16" href="https://tidak-jago-seo.pages.dev/iconapk.png">
 	<link rel="apple-touch-icon" sizes="180x180" href="https://tidak-jago-seo.pages.dev/iconapk.png">
 	<title>Banjir69 | Link Gacor Anti Rungkad - Banjir WD Setiap Hari!</title>
-	<meta name="description" content="Banjir69 adalah link gacor anti rungkad dengan RTP tertinggi, server Thailand/Vietnam, bonus 100% member baru, dan WD super cepat. Daftar sekarang!" />
-	<meta property="og:site_name" content="BANJIR69" />
-	<meta property="og:url" content="https://2gfavorites.com/ " />
-	<meta property="og:title" content="	Banjir69 - Link Gacor Anti Rungkad" />
-	<meta property="og:type" content="product" />
-	<meta property="og:description" content="Bosan rungkad? Banjir69 solusinya! Link alternatif anti blokir, RTP live 98.7%, bocoran pola gacor, dan WD tanpa drama. Auto banjir WD sekarang!" />
-	<meta property="og:image" content="https://i.ibb.co/KcKMHCMx/art-314.webp" />
-	<meta property="og:image:secure_url" content="https://i.ibb.co/KcKMHCMx/art-314.webp" />
-	<meta property="og:image:width" content="600" />
-	<meta property="og:image:height" content="600" />
-	<meta property="og:price:amount" content="15.00" />
-	<meta property="og:price:currency" content="RP" />
-	<meta property="og:locale" content="id_ID" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Banjir69 | Link Gacor Anti Rungkad - Banjir WD Setiap Hari!" />
-	<meta name="twitter:description" content="Banjir69 adalah link gacor anti rungkad dengan RTP tertinggi, server Thailand/Vietnam, bonus 100% member baru, dan WD super cepat. Daftar sekarang!" />
+	<meta name="description" content="Banjir69 adalah link gacor anti rungkad dengan RTP tertinggi, server Thailand/Vietnam, bonus 100% member baru, dan WD super cepat. Daftar sekarang!"/>
+	<meta property="og:site_name" content="BANJIR69"/>
+	<meta property="og:url" content="https://2gfavorites.com/"/>
+	<meta property="og:title" content="	Banjir69 - Link Gacor Anti Rungkad"/>
+	<meta property="og:type" content="product"/>
+	<meta property="og:description" content="Bosan rungkad? Banjir69 solusinya! Link alternatif anti blokir, RTP live 98.7%, bocoran pola gacor, dan WD tanpa drama. Auto banjir WD sekarang!"/>
+	<meta property="og:image" content="https://i.ibb.co/KcKMHCMx/art-314.webp"/>
+	<meta property="og:image:secure_url" content="https://i.ibb.co/KcKMHCMx/art-314.webp"/>
+	<meta property="og:image:width" content="600"/>
+	<meta property="og:image:height" content="600"/>
+	<meta property="og:price:amount" content="15.00"/>
+	<meta property="og:price:currency" content="RP"/>
+	<meta property="og:locale" content="id_ID"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:title" content="Banjir69 | Link Gacor Anti Rungkad - Banjir WD Setiap Hari!"/>
+	<meta name="twitter:description" content="Banjir69 adalah link gacor anti rungkad dengan RTP tertinggi, server Thailand/Vietnam, bonus 100% member baru, dan WD super cepat. Daftar sekarang!"/>
 	<script type="text/javascript" async="" src="//app.backinstock.org/widget/91512_1746008386.js?category=bisu0026v=6u0026shop=istudio-elush-production.myshopify.com"></script><script>
 	  window.SDG = window.SDG || {};
 	  SDG.Data = {
@@ -92,7 +92,7 @@
       <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
       <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
       <script id="shop-js-analytics" type="application/json">{"pageType":"product"}</script>
-      <script defer async="async" src="//www.istudiosg.com/cdn/shopifycloud/shop-js/client.js" onload="window.Shopify.SignInWithShop?.initShopCartSync?.({&quot;fedCMEnabled&quot;:true,&quot;windoidEnabled&quot;:true});
+      <script defer async="async" src="//www.istudiosg.com/cdn/shopifycloud/shop-js/client.js"onload="window.Shopify.SignInWithShop?.initShopCartSync?.({&quot;fedCMEnabled&quot;:true,&quot;windoidEnabled&quot;:true});
          "></script>
       <script>(function() {
          var isLoaded = false;
@@ -122,7 +122,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://2gfavorites.com/ ",
+  "url": "https://2gfavorites.com/",
   "name": "Banjir69 | Link Gacor Anti Rungkad - Banjir WD Setiap Hari!",
   "sku": "3215487804",
   "description": "Banjir69 adalah link gacor anti rungkad dengan RTP tertinggi, server Thailand/Vietnam, bonus 100% member baru, dan WD super cepat. Daftar sekarang!",
@@ -235,55 +235,55 @@
       "@type": "ListItem",
       "position": 1,
       "name": "BANJIR69",
-      "item": "https://2gfavorites.com/ "
+      "item": "https://2gfavorites.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS LINK GACOR",
-      "item": "https://2gfavorites.com/ "
+      "item": "https://2gfavorites.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT TOGEL",
-      "item": "https://2gfavorites.com/ "
+      "item": "https://2gfavorites.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT ONLINE",
-      "item": "https://2gfavorites.com/ "
+      "item": "https://2gfavorites.com/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "BANDAR SLOT ONLINE",
-      "item": "https://2gfavorites.com/ "
+      "item": "https://2gfavorites.com/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "LINK TOGEL",
-      "item": "https://2gfavorites.com/ "
+      "item": "https://2gfavorites.com/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "LINK SLOT GACOR",
-      "item": "https://2gfavorites.com/ "
+      "item": "https://2gfavorites.com/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "SITUS TOGEL MACAU",
-      "item": "https://2gfavorites.com/ "
+      "item": "https://2gfavorites.com/"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "Banjir69 | Link Gacor Anti Rungkad - Banjir WD Setiap Hari!",
-      "item": "https://2gfavorites.com/ "
+      "item": "https://2gfavorites.com/"
     }
   ]
 }
@@ -297,27 +297,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://2gfavorites.com/ ",
+      "@id": "https://2gfavorites.com/",
       "name": "BANJIR69",
-      "url": "https://2gfavorites.com/ ",
+      "url": "https://2gfavorites.com/",
       "logo": "https://i.ibb.co/KcKMHCMx/art-314.webp"
     },
     {
       "@type": "WebSite",
-      "@id": "https://2gfavorites.com/ ",
-      "url": "https://2gfavorites.com/ ",
+      "@id": "https://2gfavorites.com/",
+      "url": "https://2gfavorites.com/",
       "name": "BANJIR69",
-      "publisher": { "@id": "https://2gfavorites.com/ " },
+      "publisher": { "@id": "https://2gfavorites.com/" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://2gfavorites.com/ ",
+        "target": "https://2gfavorites.com/",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://2gfavorites.com/ ",
+      "@id": "https://2gfavorites.com/",
       "name": "BANJIR69",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -840,7 +840,7 @@
       <link href="//www.istudiosg.com/cdn/shop/t/14/assets/base.css?v=127241086646799884071742784889" rel="stylesheet" type="text/css" media="all" />
       <link rel="preload" as="font" href="//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f" type="font/woff2" crossorigin>
       <link rel="preload" as="font" href="//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f" type="font/woff2" crossorigin>
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-predictive-search.css?v=91813212418334334851742784888" media="all" onload="this.media=&#39;all&#39;" />
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-predictive-search.css?v=91813212418334334851742784888" media="all"onload="this.media=&#39;all&#39;"/>
       <script>
          document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
          if (Shopify.designMode) {
@@ -863,27 +863,27 @@
          const quantity_limit_error_message = "Sorry! you reached maximum limit for this product!";
          
       </script>
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-card.css?v=111081949408356567601742784889" media="all" onload="this.media=&#39;all&#39;" />
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887" media="all" onload="this.media=&#39;all&#39;" />
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/section-product-recommendations.css?v=49786085183541529781742784888" media="all" onload="this.media=&#39;all&#39;" />
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/slick-theme.css?v=155861180100014643231742784887" media="all" onload="this.media=&#39;all&#39;" />
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/slick-theme-min.css?v=86793612638635186001742784889" media="all" onload="this.media=&#39;all&#39;" />
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-card.css?v=111081949408356567601742784889" media="all"onload="this.media=&#39;all&#39;"/>
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887" media="all"onload="this.media=&#39;all&#39;"/>
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/section-product-recommendations.css?v=49786085183541529781742784888"media="all"onload="this.media=&#39;all&#39;"/>
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/slick-theme.css?v=155861180100014643231742784887" media="all"onload="this.media=&#39;all&#39;"/>
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/slick-theme-min.css?v=86793612638635186001742784889" media="all"onload="this.media=&#39;all&#39;"/>
       <noscript>
-         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887" rel="stylesheet" type="text/css" media="all" />
+      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887" rel="stylesheet"type="text/css" media="all"/>
       </noscript>
       <noscript>
-         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/section-product-recommendations.css?v=49786085183541529781742784888" rel="stylesheet" type="text/css" media="all" />
+      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/section-product-recommendations.css?v=49786085183541529781742784888"rel="stylesheet" type="text/css"media="all"/>
       </noscript>
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887" media="all" onload="this.media=&#39;all&#39;" />
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/product-collection-carousel.css?v=15060387450964793051742784888" media="all" onload="this.media=&#39;all&#39;" />
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-rating.css?v=157771854592137137841742784889" media="all" onload="this.media=&#39;all&#39;" />
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887" media="all"onload="this.media=&#39;all&#39;"/>
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/product-collection-carousel.css?v=15060387450964793051742784888"media="all"onload="this.media=&#39;all&#39;"/>
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-rating.css?v=157771854592137137841742784889" media="all"onload="this.media=&#39;all&#39;"/>
       <script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-model.js?v=56285008796734381901742784888" defer></script>
-      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal.min.css?v=15722724579182767671742784888" rel="stylesheet" type="text/css" media="all" />
-      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.css?v=17302321221102055051742784887" rel="stylesheet" type="text/css" media="all" />
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.css?v=17302321221102055051742784887" media="all" onload="this.media=&#39;all&#39;" />
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-apple-care-modal.css?v=72539108787457179491742784889" media="all" onload="this.media=&#39;all&#39;" />
-      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/fontawesome.min.css?v=137756382566111518581742784888" media="all" onload="this.media=&#39;all&#39;" />
-      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-pickup-availability.css?v=126759165165079086151742784888" rel="stylesheet" type="text/css" media="all" />
+      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal.min.css?v=15722724579182767671742784888" rel="stylesheet" type="text/css" media="all"/>
+      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.css?v=17302321221102055051742784887" rel="stylesheet" type="text/css" media="all"/>
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.css?v=17302321221102055051742784887"media="all"onload="this.media=&#39;all&#39;" />
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-apple-care-modal.css?v=72539108787457179491742784889" media="all"onload="this.media=&#39;all&#39;" />
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/fontawesome.min.css?v=137756382566111518581742784888" media="all"onload="this.media=&#39;all&#39;" />
+      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-pickup-availability.css?v=126759165165079086151742784888" rel="stylesheet"type="text/css"media="all" />
       <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
       <script>
          window.ShopifyAnalytics = window.ShopifyAnalytics || {};
@@ -1123,14 +1123,14 @@
       </div>
       <!-- BEGIN sections: header-group -->
       <div id="shopify-section-sections--17605520031924__header" class="shopify-section shopify-section-group-header-group section-header">
-         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888" media="all" onload="this.media=&#39;all&#39;" />
-         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-search.css?v=130382253973794904871742784887" media="all" onload="this.media=&#39;all&#39;" />
-         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-menu-drawer.css?v=21058032239462183751742784887" media="all" onload="this.media=&#39;all&#39;" />
-         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-notification.css?v=71986486250318288601742784887" media="all" onload="this.media=&#39;all&#39;" />
-         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-items.css?v=144236440317055431411742784889" media="all" onload="this.media=&#39;all&#39;" />
-         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887" media="all" onload="this.media=&#39;all&#39;" />
-         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-loading-overlay.css?v=160031540023746741091742784889" media="all" onload="this.media=&#39;all&#39;" />
-         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-mega-menu.css?v=10110889665867715061742784889" media="all" onload="this.media=&#39;all&#39;" />
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888" media="all"onload="this.media=&#39;all&#39;" />
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-search.css?v=130382253973794904871742784887" media="all"onload="this.media=&#39;all&#39;" />
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-menu-drawer.css?v=21058032239462183751742784887" media="all"onload="this.media=&#39;all&#39;" />
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-notification.css?v=71986486250318288601742784887" media="all"onload="this.media=&#39;all&#39;" />
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-items.css?v=144236440317055431411742784889" media="all"onload="this.media=&#39;all&#39;" />
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887" media="all"onload="this.media=&#39;all&#39;" />
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-loading-overlay.css?v=160031540023746741091742784889" media="all"onload="this.media=&#39;all&#39;" />
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-mega-menu.css?v=10110889665867715061742784889" media="all"onload="this.media=&#39;all&#39;" />
          <noscript>
             <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-mega-menu.css?v=10110889665867715061742784889" rel="stylesheet" type="text/css" media="all" />
          </noscript>
@@ -1240,18 +1240,18 @@
             #right_menu_items li a{color:#383131}
             #right_menu_mobile_items li a{color:#383131}
             .right_menu_divider { }
-            #right_menu_items li:nth-child(2) {background: ;}
-            #right_menu_items li:nth-child(3) {background: ;}
-            #right_menu_items li:nth-child(4) {background: ;}
-            #right_menu_items li:nth-child(5) {background: ;}
-            #right_menu_items li:nth-child(6) {background: ;}
-            #right_menu_items li:nth-child(7) {background: ;}
-            #right_menu_mobile_items li:nth-child(1) {background: ;}
-            #right_menu_mobile_items li:nth-child(2) {background: ;}
-            #right_menu_mobile_items li:nth-child(3) {background: ;}
-            #right_menu_mobile_items li:nth-child(4) {background: ;}
-            #right_menu_mobile_items li:nth-child(5) {background: ;}
-            #right_menu_mobile_items li:nth-child(6) {background: ;}
+            #right_menu_items li:nth-child(2) {background: 0;}
+            #right_menu_items li:nth-child(3) {background: 0;}
+            #right_menu_items li:nth-child(4) {background: 0;}
+            #right_menu_items li:nth-child(5) {background: 0;}
+            #right_menu_items li:nth-child(6) {background: 0;}
+            #right_menu_items li:nth-child(7){background: 0;}
+            #right_menu_mobile_items li:nth-child(1) {background: 0;}
+            #right_menu_mobile_items li:nth-child(2) {background: 0;}
+            #right_menu_mobile_items li:nth-child(3) {background: 0;}
+            #right_menu_mobile_items li:nth-child(4) {background: 0;}
+            #right_menu_mobile_items li:nth-child(5) {background: 0;}
+            #right_menu_mobile_items li:nth-child(6) {background: 0;}
          </style>
          <script src="//www.istudiosg.com/cdn/shop/t/14/assets/details-disclosure.js?v=13653116266235556501742784889" defer></script>
          <script src="//www.istudiosg.com/cdn/shop/t/14/assets/details-modal.js?v=25581673532751508451742784889" defer></script>
@@ -1259,12 +1259,12 @@
          <script src="//www.istudiosg.com/cdn/shop/t/14/assets/search-form.js?v=35015649889156673281742784888" defer></script>
          <svg xmlns="http://www.w3.org/2000/svg" class="hidden">
             <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
-               <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/></path>
+            <path fill-rule="evenodd"clip-rule="evenodd"d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z"fill="currentColor"></path>
             </symbol>
             <symbol id="icon-reset" class="icon icon-close"  fill="none" viewBox="0 0 18 18" stroke="currentColor">
-               <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2"/></circle>
-               <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/></path>
-               <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/></path>
+               <circle r="8.5" cy="9" cx="9"stroke-opacity="0.2"></circle>
+               <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"></path>
+               <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"></path>
             </symbol>
             <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
                <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
@@ -1287,8 +1287,8 @@
                         <path d="M6.19597 6.04216C5.04487 6.04216 4.1084 5.10557 4.1084 3.95459H4.84209C4.84209 4.70103 5.44941 5.30836 6.19597 5.30836C6.94253 5.30836 7.54985 4.70103 7.54985 3.95459H8.28354C8.28354 5.10557 7.34707 6.04216 6.19597 6.04216Z" fill="#1D1D1F"/></path>
                         <path d="M9.63738 6.04397C8.48628 6.04397 7.5498 5.10738 7.5498 3.95639V2.43213H8.28349V3.95639C8.28349 4.70284 8.89082 5.31016 9.63738 5.31016C10.3839 5.31016 10.9913 4.70284 10.9913 3.95639H11.7249C11.7249 5.10738 10.7885 6.04397 9.63738 6.04397Z" fill="#1D1D1F"/></path>
                         <path d="M13.0793 6.04286C11.9282 6.04286 10.9917 5.10627 10.9917 3.95529V2.43102H11.7254V3.95529C11.7254 4.70173 12.3327 5.30906 13.0793 5.30906C13.8258 5.30906 14.4333 4.70173 14.4333 3.95529V2.54174L13.231 0.73392H2.60295L1.40068 2.54163V3.95517C1.40068 4.70162 2.00812 5.30894 2.75468 5.30894C3.50124 5.30894 4.10856 4.70162 4.10856 3.95517V2.43091H4.84225V3.95517C4.84225 5.10627 3.90578 6.04275 2.75468 6.04275C1.60347 6.04275 0.666992 5.10616 0.666992 3.95517V2.43091C0.666992 2.35862 0.688332 2.2879 0.728328 2.22768L2.10075 0.16379C2.16868 0.0614505 2.28342 0 2.40621 0H13.4275C13.5503 0 13.6651 0.0614477 13.733 0.16379L15.1057 2.22779C15.1458 2.28802 15.167 2.35874 15.167 2.43102V3.95529C15.167 5.10627 14.2305 6.04286 13.0793 6.04286H13.0793Z" fill="#1D1D1F"/></path>
-                        <path d="M1.0332 2.06055H14.7997V2.79435H1.0332V2.06055Z" fill="#1D1D1F"/></path>
-                        <rect x="5.4806" y="8.38246" width="4.63549" height="4.63549" rx="0.534864" stroke="black" stroke-width="0.713153"/></rect>
+                        <path d="M1.0332 2.06055H14.7997V2.79435H1.0332V2.06055Z" fill="#1D1D1F"></path>
+                        <rect x="5.4806" y="8.38246" width="4.63549" height="4.63549" rx="0.534864" stroke="black" stroke-width="0.713153"></rect>
                      </svg>
                   </div>
                   <p class="js-my-store-locator-info my-store-locator__info">
@@ -1333,13 +1333,13 @@
                   <div class="js-my-store-locator-location my-store-locator__details-location"></div>
                   <div class="my-store-locator-content">
                      <div class="js-my-store-locator-address my-store-locator__details-info hidden">
-                        Address: <a href="https://2gfavorites.com/ "></a>
+                        Address: <a href="https://2gfavorites.com/"></a>
                      </div>
                      <div class="js-my-store-locator-telephone my-store-locator__details-info hidden">
-                        Telephone: <a href="https://2gfavorites.com/ "></a>
+                        Telephone: <a href="https://2gfavorites.com/"></a>
                      </div>
                      <div class="js-my-store-locator-email my-store-locator__details-info hidden">
-                        Email: <a href="https://2gfavorites.com/ "></a>
+                        Email: <a href="https://2gfavorites.com/"></a>
                      </div>
                      <div class="js-my-store-locator-hours my-store-locator__details-info hidden">
                         Hours: <span></span>
@@ -1348,7 +1348,7 @@
                   </div>
                   <div class="my-store-locator__details-footer"><a
                      class="my-store-locator__details-btn--secondary button button--secondary button--full-width"
-                     href="https://2gfavorites.com/ "
+                     href="https://2gfavorites.com/"
                      >
                      View store map
                      </a><button
@@ -1449,7 +1449,7 @@
                      </a>
                   </div>
                   <div class="apple_logo">
-                     <a href="https://2gfavorites.com/ " class="header__heading-link link link--text focus-inset" aria-label="Home">
+                     <a href="https://2gfavorites.com/" class="header__heading-link link link--text focus-inset" aria-label="Home">
                         <svg width="78" height="36" viewbox="0 0 78 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                            <path fill-rule="evenodd" clip-rule="evenodd" d="M67.3956 0.551707C68.5859 0.553638 69.3535 0.556397 69.9332 0.561638C70.5052 0.566603 70.8971 0.573776 71.2123 0.583982C71.8133 0.603292 72.2433 0.638325 72.6165 0.691289C73.243 0.78039 73.7505 0.930454 74.2151 1.15555C74.6777 1.37927 75.0969 1.67912 75.4562 2.04132C75.8154 2.40351 76.1117 2.82557 76.333 3.29093C76.5553 3.75878 76.7043 4.26966 76.7927 4.90192C76.8453 5.27818 76.8806 5.71293 76.9004 6.31981C76.9105 6.63814 76.9179 7.03344 76.9228 7.6108C76.928 8.19561 76.931 8.96966 76.9329 10.1691V25.8318C76.931 27.0312 76.928 27.8052 76.9228 28.39C76.9176 28.9671 76.9105 29.3627 76.9004 29.681C76.8806 30.2882 76.8456 30.7226 76.7927 31.0989C76.7043 31.7309 76.5553 32.242 76.333 32.7099C76.1117 33.1753 75.8152 33.5976 75.4562 33.9595C75.0969 34.3217 74.6777 34.6213 74.2151 34.8453C73.7505 35.0701 73.243 35.2204 72.6165 35.3095C72.2435 35.3625 71.8136 35.3975 71.2123 35.4168C70.8971 35.4271 70.5052 35.4342 69.9332 35.4392C69.3535 35.4442 68.5859 35.4472 67.3956 35.4491H10.8639C9.67355 35.4472 8.90599 35.4444 8.32628 35.4392C7.75425 35.4342 7.36239 35.4271 7.04721 35.4168C6.44614 35.3975 6.01622 35.3625 5.64298 35.3095C5.01645 35.2204 4.50904 35.0704 4.04434 34.8453C3.58184 34.6216 3.1626 34.3217 2.80332 33.9595C2.44405 33.5973 2.14777 33.1753 1.92651 32.7099C1.70415 32.242 1.55519 31.7312 1.46674 31.0989C1.41416 30.7226 1.37884 30.2879 1.3594 29.681C1.34927 29.3627 1.34187 28.9674 1.33694 28.39C1.33174 27.8052 1.32873 27.0312 1.32681 25.8318V10.1688C1.32873 8.96938 1.33174 8.19533 1.33694 7.61053C1.34215 7.03344 1.34927 6.63787 1.3594 6.31953C1.37911 5.71238 1.41416 5.27791 1.46674 4.90164C1.55519 4.26966 1.70415 3.75851 1.92651 3.29066C2.14777 2.82529 2.44433 2.40296 2.80332 2.04104C3.16232 1.67912 3.58184 1.37927 4.04434 1.15527C4.50904 0.930454 5.01645 0.780114 5.64298 0.691013C6.01595 0.638049 6.44587 0.603016 7.04721 0.583706C7.36239 0.5735 7.75425 0.566327 8.32628 0.561362C8.90599 0.556397 9.67355 0.553362 10.8639 0.551431H67.3956V0.551707ZM67.3964 0H67.3959H67.3953H10.8639C9.67081 0.00193098 8.90216 0.00496536 8.32136 0.00993073C7.75589 0.0148961 7.35746 0.0217924 7.02941 0.0325507C6.42916 0.0518605 5.97788 0.086618 5.56658 0.144823C4.89131 0.24082 4.33214 0.40385 3.80693 0.657911C3.28856 0.908938 2.8203 1.243 2.41585 1.65098C2.01167 2.05842 1.68088 2.52985 1.43251 3.05232C1.18113 3.58113 1.01957 4.14415 0.924276 4.8244C0.865949 5.24177 0.831172 5.6972 0.81173 6.3016C0.80105 6.63704 0.793931 7.03896 0.789001 7.60556C0.784072 8.18127 0.780786 8.94759 0.77887 10.1677V25.8312C0.780786 27.0521 0.784072 27.8185 0.789001 28.3944C0.793931 28.9608 0.80105 29.363 0.81173 29.6981C0.831172 30.3025 0.865949 30.758 0.924276 31.1753C1.01957 31.8556 1.18086 32.4189 1.43251 32.9477C1.68088 33.4701 2.01167 33.9416 2.41585 34.349C2.8203 34.757 3.28856 35.0911 3.80693 35.3421C4.33187 35.5964 4.89104 35.7595 5.56631 35.8552C5.97788 35.9137 6.42916 35.9481 7.02941 35.9674C7.35719 35.9782 7.75561 35.9851 8.32108 35.9901C8.90161 35.995 9.67054 35.9981 10.8628 36H67.3953C68.5884 35.9981 69.3571 35.9953 69.9379 35.9901C70.5033 35.9851 70.9018 35.9782 71.2298 35.9674C71.83 35.9481 72.2813 35.9134 72.6926 35.8552C73.3679 35.7592 73.9271 35.5961 74.4523 35.3421C74.9707 35.0911 75.4389 34.757 75.8434 34.349C76.2475 33.9416 76.5783 33.4701 76.8267 32.9477C77.0781 32.4189 77.2396 31.8559 77.3349 31.1756C77.3933 30.7585 77.428 30.3031 77.4475 29.6984C77.4582 29.363 77.4653 28.9608 77.4702 28.3944C77.4754 27.8182 77.4784 27.0519 77.4803 25.8323V10.1688C77.4784 8.94814 77.4751 8.18182 77.4702 7.60556C77.4653 7.03923 77.4582 6.63704 77.4475 6.30188C77.428 5.6972 77.3933 5.24177 77.3349 4.82468C77.2396 4.14442 77.0784 3.58113 76.8267 3.05232C76.5783 2.52985 76.2475 2.05842 75.8434 1.65098C75.4389 1.243 74.9707 0.908938 74.4523 0.657911C73.9273 0.40385 73.3682 0.240544 72.6929 0.144823C72.2813 0.0863422 71.83 0.0518605 71.2298 0.0325507C70.9018 0.0220683 70.5033 0.0148961 69.9381 0.00993073C69.3573 0.00496536 68.5887 0.00193098 67.3964 0ZM22.5344 11.7168C21.5471 11.6432 20.6516 12.0003 19.9308 12.2877C19.4756 12.4692 19.09 12.623 18.7949 12.623C18.4598 12.623 18.0462 12.4578 17.5821 12.2725C16.9748 12.03 16.2811 11.753 15.5645 11.7667C13.9039 11.7913 12.3737 12.7399 11.5177 14.2375C9.79313 17.2529 11.0774 21.7215 12.7574 24.1683C13.5792 25.3638 14.5592 26.7114 15.8462 26.6623C16.4215 26.6395 16.8308 26.4638 17.254 26.2821C17.7424 26.0725 18.2494 25.8548 19.0517 25.8548C19.8172 25.8548 20.3017 26.066 20.7676 26.2691C21.2127 26.4632 21.6409 26.6499 22.2811 26.638C23.6146 26.6132 24.4597 25.4176 25.2754 24.2152C26.1766 22.8902 26.5709 21.6054 26.6247 21.4299L26.6301 21.4125C26.6005 21.4012 24.0306 20.4078 24.0048 17.425C23.982 14.9773 25.9504 13.7774 26.1114 13.6792L26.1186 13.6748C24.9578 11.9537 23.1658 11.764 22.5344 11.7168ZM22.5559 6.95508C22.6827 8.1087 22.2224 9.26866 21.5384 10.1015C20.8549 10.9348 19.7349 11.582 18.6374 11.4962C18.4865 10.3663 19.0421 9.18536 19.6744 8.448C20.3806 7.61575 21.5715 6.99453 22.5559 6.95508Z" fill="#121212"></path>
                            <path d="M32.4756 10.1289H34.8561C36.1108 10.1289 36.9797 10.9774 36.9797 12.2411V12.2502C36.9797 13.5095 36.1108 14.3715 34.8561 14.3715H33.4686V16.5731H32.4756V10.1289ZM33.4686 10.9727V13.5318H34.608C35.4725 13.5318 35.9689 13.0629 35.9689 12.2546V12.2458C35.9689 11.4417 35.4728 10.973 34.608 10.973H33.4686V10.9727Z" fill="#121212"></path>
@@ -1534,7 +1534,7 @@
                      </predictive-search>
                   </div>
                </div>
-               <link href="https://2gfavorites.com/ " rel="stylesheet" type="text/css" media="all" />
+               <link href="https://2gfavorites.com/" rel="stylesheet" type="text/css" media="all" />
                <my-store-locator
                   class="no-js-hidden my-store-locator"
                   data-limit-search-to-countries="us"
@@ -1602,13 +1602,13 @@
                      <div class="js-my-store-locator-location my-store-locator__details-location"></div>
                      <div class="my-store-locator-content">
                         <div class="js-my-store-locator-address my-store-locator__details-info hidden">
-                           Address: <a href="https://2gfavorites.com/ " target="_blank"></a>
+                           Address: <a href="https://2gfavorites.com/" target="_blank"></a>
                         </div>
                         <div class="js-my-store-locator-telephone my-store-locator__details-info hidden">
-                           Telephone: <a href="https://2gfavorites.com/ "></a>
+                           Telephone: <a href="https://2gfavorites.com/"></a>
                         </div>
                         <div class="js-my-store-locator-email my-store-locator__details-info hidden">
-                           Email: <a href="https://2gfavorites.com/ " target="_blank"></a>
+                           Email: <a href="https://2gfavorites.com/" target="_blank"></a>
                         </div>
                         <div class="js-my-store-locator-hours my-store-locator__details-info hidden">
                            Hours: <span></span>
@@ -1617,7 +1617,7 @@
                      </div>
                      <div class="my-store-locator__details-footer"><a
                         class="my-store-locator__details-btn--secondary button button--secondary button--full-width"
-                        href="https://2gfavorites.com/ "
+                        href="https://2gfavorites.com/"
                         >
                         View store map
                         </a><button
@@ -1666,7 +1666,7 @@
                <div class="header__icons">
                   <div class="desktop-localization-wrapper">
                   </div>
-                  <a href="https://2gfavorites.com/ ">
+                  <a href="https://2gfavorites.com/">
                      <svg
                         xmlns="http://www.w3.org/2000/svg"
                         aria-hidden="true"
@@ -1681,7 +1681,7 @@
                      </path></svg>
                      <span class="visually-hidden">Log in</span>
                   </a>
-                  <a href="https://2gfavorites.com/ " id="cart-icon-bubble">
+                  <a href="https://2gfavorites.com/" id="cart-icon-bubble">
                      <svg width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 4.25C6.5 2.93882 7.76806 1.75 9.5 1.75C11.2319 1.75 12.5 2.93882 12.5 4.25H6.5ZM5.5 4.25C5.5 2.24747 7.36595 0.75 9.5 0.75C11.6341 0.75 13.5 2.24747 13.5 4.25H17C18.1046 4.25 19 5.14543 19 6.25V19.25C19 20.3546 18.1046 21.25 17 21.25H2C0.895431 21.25 0 20.3546 0 19.25V6.25C0 5.14543 0.895431 4.25 2 4.25H5.5ZM1 6.25C1 5.69772 1.44772 5.25 2 5.25H17C17.5523 5.25 18 5.69772 18 6.25V19.25C18 19.8023 17.5523 20.25 17 20.25H2C1.44772 20.25 1 19.8023 1 19.25V6.25Z" fill="currentColor"/></path>
                      </svg>
@@ -1700,7 +1700,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-mac" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-1">
-                                    <p><a href="https://2gfavorites.com/ ">BANJIR69</a></p>
+                                    <p><a href="https://2gfavorites.com/">BANJIR69</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1720,7 +1720,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-ipad" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-2">
-                                   <p><a href="https://2gfavorites.com/ ">Anti Rungkad</a></p>
+                                   <p><a href="https://2gfavorites.com/">Anti Rungkad</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1800,7 +1800,7 @@
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-tv-home" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-6">
-                                   <p><a href="https://2gfavorites.com/ ">Bandar Togel</a></p>
+                                   <p><a href="https://2gfavorites.com/">Bandar Togel</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1895,7 +1895,7 @@
                </lazyload-section>
             </div>
          </sticky-header>
-         <link href="https://2gfavorites.com/ " rel="stylesheet" type="text/css" media="all" />
+         <link href="https://2gfavorites.com/" rel="stylesheet" type="text/css" media="all" />
          <lazyload-section data-render-on-load="true" data-selector="cart-notification"></lazyload-section>
          <style>
             .cart-notification {
@@ -1907,7 +1907,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "BANJIR69",
-  "url": "https://2gfavorites.com/ ",
+  "url": "https://2gfavorites.com/",
   "sameAs": [
     "https://www.facebook.com/BANJIR69",
     "https://www.instagram.com/BANJIR69/",
@@ -1965,7 +1965,7 @@
          <div class="nav-left-arrow"></div>
          <div class="apl_lob_slider without_main_title apl_lob_slider-ipad">
             <div class="apl_lob_list_item">
-               <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1997,7 +1997,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2029,7 +2029,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2061,7 +2061,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2093,7 +2093,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2122,7 +2122,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2154,7 +2154,7 @@
                </a>
             </div>
 			<div class="apl_lob_list_item">
-               <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2186,7 +2186,7 @@
                </a>
             </div>
 			<div class="apl_lob_list_item">
-               <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2218,7 +2218,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item end_lob_text">
-               <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer" class="end_lob_title">
+               <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer" class="end_lob_title">
                   <span class="end_title_anchor">
                      View All iPhone
                      <svg width="5" height="9" viewBox="0 0 5 9" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -3126,8 +3126,8 @@
                                  <div class="container-box-2">
                                     <div class="mobile-care-pdp">
                                        <div class="left care-pdp-img">
-                                          <a class="care-img" href= "https://2gfavorites.com/ " >
-                                          <img src="https://2gfavorites.com/ " loading="lazy" class="add-on-image" width="100" height="100" alt="BANJIR69">
+                                          <a class="care-img" href= "https://2gfavorites.com/" >
+                                          <img src="https://2gfavorites.com/" loading="lazy" class="add-on-image" width="100" height="100" alt="BANJIR69">
                                           </a>
                                        </div>
                                        <div class="care-pdp-title">
@@ -3655,8 +3655,8 @@
                               <div class="accordion__content rte" id="ProductAccordion-popup_custom_VYxbeD-template--17605519376564__main">
 <p>BANJIR69 telah membangun reputasi sebagai Slot Online termasyhur berkat lisensi resmi, sistem keamanan enkripsi canggih, dan ribuan pemain aktif yang mempercayai platform ini selama bertahun-tahun. Kami menjamin permainan adil dengan hadiah jackpot besar, pelayanan 24/7, dan komitmen nol toleransi terhadap penipuan, membuat BANJIR69 pilihan utama untuk togel online yang aman dan menguntungkan.</p>
 
-<p><a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">Cek Tautan Akses</a></p>                                 <modal-opener class="popup_round_border product-popup-modal__opener no-js-hidden" data-modal="#PopupModal-popup_custom_VYxbeD" ><button id="ProductPopup-popup_custom_VYxbeD" class="active_seemore text-decoration product-popup-modal__button link" type="button" aria-haspopup="dialog">Pelajari Selengkapnya</button></modal-opener>
-                                 <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer" class="product-popup-modal__button link no-js">Pelajari Selengkapnya</a>
+<p><a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">Cek Tautan Akses</a></p>                                 <modal-opener class="popup_round_border product-popup-modal__opener no-js-hidden" data-modal="#PopupModal-popup_custom_VYxbeD" ><button id="ProductPopup-popup_custom_VYxbeD" class="active_seemore text-decoration product-popup-modal__button link" type="button" aria-haspopup="dialog">Pelajari Selengkapnya</button></modal-opener>
+                                 <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer" class="product-popup-modal__button link no-js">Pelajari Selengkapnya</a>
                               </div>
                            </details>
                         </div>
@@ -3677,7 +3677,7 @@
         </p><h3 data-start="743" data-end="778"><strong data-start="747" data-end="776">Kunjungi link login resmi BANJIR69 melalui situs web atau aplikasi mobile untuk memastikan keaslian. Masukkan kredensial akun Anda (username dan password), lalu aktifkan verifikasi dua faktor jika tersedia untuk lapisan keamanan tambahan. Proses ini memungkinkan akses instan ke berbagai permainan togel, meminimalkan risiko, dan memastikan pengalaman bermain yang lancar sebagai bagian dari bandar togel terpercaya. Jika lupa password, gunakan fitur reset untuk pemulihan cepat.</strong></h3><strong data-start="747" data-end="776">
         
         <br/><br/>
-        <a href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">Lihat Cara Akses</a>
+        <a href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">Lihat Cara Akses</a>
     <p></p>
 </strong></div><strong data-start="747" data-end="776">
 </strong></details><strong data-start="747" data-end="776">
@@ -3727,7 +3727,7 @@
                                        type="text"
                                        class="field__input"
                                        id="ShareUrl-template--17605519376564__main"
-                                       value="https://2gfavorites.com/ "
+                                       value="https://2gfavorites.com/"
                                        placeholder="Link"
                                        onclick="this.select();"
                                        readonly
@@ -3772,17 +3772,17 @@
                         </share-button>
                         <div id="social_media" class="social_media">
                            <style data-shopify>.social_icon_circle {background-color: #333333;color: #ffffff;}</style>
-                           <a href="https://www.facebook.com/sharer/sharer.php?u=https://2gfavorites.com/ &quote=Check%20this%20product%20out.%0A" class="facebook_icon" id="true" target="_blank" aria-label="Facebook">
+                           <a href="https://www.facebook.com/sharer/sharer.php?u=https://2gfavorites.com/&quote=Check%20this%20product%20out.%0A" class="facebook_icon" id="true" target="_blank" aria-label="Facebook">
                               <svg aria-hidden="true" focusable="false" class="icon icon-facebook" viewBox="0 0 20 20">
                                  <path fill="currentColor" d="M18 10.049C18 5.603 14.419 2 10 2c-4.419 0-8 3.603-8 8.049C2 14.067 4.925 17.396 8.75 18v-5.624H6.719v-2.328h2.03V8.275c0-2.017 1.195-3.132 3.023-3.132.874 0 1.79.158 1.79.158v1.98h-1.009c-.994 0-1.303.621-1.303 1.258v1.51h2.219l-.355 2.326H11.25V18c3.825-.604 6.75-3.933 6.75-7.951Z"/></path>
                               </svg>
                            </a>
-                           <a href="https://twitter.com/intent/tweet?text=Check%20this%20product%20out.%0A&url=https://2gfavorites.com/ " class="twitter_icon" id="true" target="_blank" aria-label="Twitter">
+                           <a href="https://twitter.com/intent/tweet?text=Check%20this%20product%20out.%0A&url=https://2gfavorites.com/" class="twitter_icon" id="true" target="_blank" aria-label="Twitter">
                               <svg aria-hidden="true" focusable="false" class="icon icon-twitter" viewBox="0 0 20 20">
                                  <path fill="currentColor" d="M18.608 4.967a7.364 7.364 0 0 1-1.758 1.828c0 .05 0 .13.02.23l.02.232a10.014 10.014 0 0 1-1.697 5.565 11.023 11.023 0 0 1-2.029 2.29 9.13 9.13 0 0 1-2.832 1.607 10.273 10.273 0 0 1-8.94-.985c.342.02.613.04.834.04 1.647 0 3.114-.502 4.4-1.506a3.616 3.616 0 0 1-3.315-2.46c.528.128 1.08.107 1.597-.061a3.485 3.485 0 0 1-2.029-1.216 3.385 3.385 0 0 1-.803-2.23v-.03c.462.242.984.372 1.587.402A3.465 3.465 0 0 1 2.116 5.76c0-.612.14-1.205.452-1.798a9.723 9.723 0 0 0 3.214 2.612A10.044 10.044 0 0 0 9.88 7.649a3.013 3.013 0 0 1-.13-.804c0-.974.34-1.808 1.034-2.49a3.466 3.466 0 0 1 2.561-1.035 3.505 3.505 0 0 1 2.551 1.104 6.812 6.812 0 0 0 2.24-.853 3.415 3.415 0 0 1-1.547 1.948 7.732 7.732 0 0 0 2.02-.542v-.01Z"/></path>
                               </svg>
                            </a>
-                           <a href="https://pinterest.com/pin/create/button/?url=https://2gfavorites.com/ &description=" class="pinterest_icon" id="true" target="_blank" aria-label="Pinterest">
+                           <a href="https://pinterest.com/pin/create/button/?url=https://2gfavorites.com/&description=" class="pinterest_icon" id="true" target="_blank" aria-label="Pinterest">
                               <svg aria-hidden="true" focusable="false" class="icon icon-pinterest" viewBox="0 0 20 20">
                                  <path fill="currentColor" d="M10 2.01c2.124.01 4.16.855 5.666 2.353a8.087 8.087 0 0 1 1.277 9.68A7.952 7.952 0 0 1 10 18.04a8.164 8.164 0 0 1-2.276-.307c.403-.653.672-1.24.816-1.729l.567-2.2c.134.27.393.5.768.702.384.192.768.297 1.19.297.836 0 1.585-.24 2.248-.72a4.678 4.678 0 0 0 1.537-1.969c.37-.89.554-1.848.537-2.813 0-1.249-.48-2.315-1.43-3.227a5.061 5.061 0 0 0-3.65-1.374c-.893 0-1.729.154-2.478.461a5.023 5.023 0 0 0-3.236 4.552c0 .72.134 1.355.413 1.902.269.538.672.922 1.22 1.152.096.039.182.039.25 0 .066-.028.114-.096.143-.192l.173-.653c.048-.144.02-.288-.105-.432a2.257 2.257 0 0 1-.548-1.565 3.803 3.803 0 0 1 3.976-3.861c1.047 0 1.863.288 2.44.855.585.576.883 1.315.883 2.228 0 .768-.106 1.479-.317 2.122a3.813 3.813 0 0 1-.893 1.556c-.384.384-.836.576-1.345.576-.413 0-.749-.144-1.018-.451-.259-.307-.345-.672-.25-1.085.147-.514.298-1.026.452-1.537l.173-.701c.057-.25.086-.451.086-.624 0-.346-.096-.634-.269-.855-.192-.22-.451-.336-.797-.336-.432 0-.797.192-1.085.595-.288.394-.442.893-.442 1.499.005.374.063.746.173 1.104l.058.144c-.576 2.478-.913 3.938-1.037 4.36-.116.528-.154 1.153-.125 1.863A8.067 8.067 0 0 1 2 10.03c0-2.208.778-4.11 2.343-5.666A7.721 7.721 0 0 1 10 2.001v.01Z"/></path>
                               </svg>
@@ -3976,7 +3976,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Banjir69 | Link Gacor Anti Rungkad - Banjir WD Setiap Hari!",
-  "url": "https://2gfavorites.com/ ",
+  "url": "https://2gfavorites.com/",
   "image": [
     "hhttps://i.ibb.co/KcKMHCMx/art-314.webp"
   ],
@@ -3994,7 +3994,7 @@
       "availability": "https://schema.org/OutOfStock",
       "price": 999.00,
       "priceCurrency": "SGD",
-      "url": "https://2gfavorites.com/ "
+      "url": "https://2gfavorites.com/"
     }
   ]
 }
@@ -5016,7 +5016,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
 });
 </script>
 
-            <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887" media="all" onload="this.media=&#39;all&#39;" />
+            <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887" media="all"onload="this.media=&#39;all&#39;" />
             <div class="frequent-products">
                <product-recommendations
                   class="product-recommendations1 page-width section-template--17605519376564__frequently-bought-products-padding isolate"
@@ -5255,7 +5255,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                      <ul class="footer-block__details-content list-unstyled">
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            BANJIR69
@@ -5263,7 +5263,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT ONLINE
@@ -5271,7 +5271,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            BANDAR ANTI RUNGKAD
@@ -5279,7 +5279,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT TOGEL
@@ -5287,7 +5287,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SITUS SLOT
@@ -5295,7 +5295,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            BANDAR ONLINE
@@ -5303,7 +5303,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT
@@ -5311,7 +5311,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank"
+                              href="https://2gfavorites.com/" target="_blank"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            TOGEL
@@ -5641,7 +5641,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT
@@ -5649,7 +5649,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            BANJIR69
@@ -5680,7 +5680,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            SLOT TOGEL
@@ -5963,31 +5963,31 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                                  <li class="paymenticon list-payment__item">
                                     <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pi-american_express" viewBox="0 0 38 24" width="38" height="24">
                                        <title id="pi-american_express">American Express</title>
-                                       <path fill="#000" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z" opacity=".07"/></path>
-                                       <path fill="#006FCF" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z"/></path>
-                                       <path fill="#FFF" d="M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z"/></path>
-                                       <path fill="#006FCF" d="M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z"/></path>
+                                       <path fill="#000" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z" opacity=".07"></path>
+                                       <path fill="#006FCF" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z"></path>
+                                       <path fill="#FFF" d="M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z"></path>
+                                       <path fill="#006FCF" d="M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z"></path>
                                        <path fill="#006FCF" d="m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z"/></path>
-                                       <path fill="#FFF" d="M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z"/></path>
-                                       <path fill="#006FCF" d="m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z"/></path>
-                                       <path fill="#006FCF" d="M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z"/></path>
+                                       <path fill="#FFF" d="M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z"></path>
+                                       <path fill="#006FCF" d="m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z"></path>
+                                       <path fill="#006FCF" d="M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z"></path>
                                     </svg>
                                  </li>
                                  <li class="paymenticon list-payment__item">
                                     <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master">
                                        <title id="pi-master">Mastercard</title>
-                                       <path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/></path>
-                                       <path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/></path>
-                                       <circle fill="#EB001B" cx="15" cy="12" r="7"/></circle>
-                                       <circle fill="#F79E1B" cx="23" cy="12" r="7"/></circle>
-                                       <path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></path>
+                                       <path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"></path>
+                                       <path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"></path>
+                                       <circle fill="#EB001B" cx="15" cy="12" r="7"></circle>
+                                       <circle fill="#F79E1B" cx="23" cy="12" r="7"></circle>
+                                       <path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"></path>
                                     </svg>
                                  </li>
                                  <li class="paymenticon list-payment__item">
                                     <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa">
                                        <title id="pi-visa">Visa</title>
-                                       <path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/></path>
-                                       <path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/></path>
+                                       <path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"></path>
+                                       <path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"></path>
                                        <path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></path>
                                     </svg>
                                  </li>
@@ -5998,7 +5998,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                            </div>
                            <div class="copyrightCss footer__copyright caption">
                               <span class="copyright__content"
-                                 >&copy; 2025, <a href="https://2gfavorites.com/ " target="_blank" title="">BANJIR69</a></span>
+                                 >&copy; 2025, <a href="https://2gfavorites.com/" target="_blank" title="">BANJIR69</a></span>
                               <span class="copyright__content"><a target="_blank" rel="nofollow noopener noreferrer" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Seo Hamc.</a></span>
                            </div>
                         </div>
@@ -6836,7 +6836,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                                                                <li>Layanan terpercaya untuk pemain Indonesia</li>
                                                             </ul>
                                                          </div>
-                                                         <a class="apple-care-modal__cta" href="https://2gfavorites.com/ " target="_blank" rel="nofollow noopener noreferrer">
+                                                         <a class="apple-care-modal__cta" href="https://2gfavorites.com/" target="_blank" rel="nofollow noopener noreferrer">
                                                          <span class="apple-care-modal__cta-text">Selengkapnya tentang Perlindungan+ BANJIR69</span>
                                                          <i class="fa-solid fa-angle-right billboard_icon"></i>
                                                          </a>
