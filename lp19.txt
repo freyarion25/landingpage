@@ -6,8 +6,7 @@
     <meta content="origin-when-cross-origin" name="referrer">
 
     <link rel="dns-prefetch" href="//s3.envato.com">
-    <link rel="preload" href="https://market-resized.envatousercontent.com/themeforest.net/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.__large_preview.jpg?auto=format&amp;q=94&amp;cf_fit=crop&amp;gravity=top&amp;h=8000&amp;w=590&amp;s=cc700268e0638344373c64d90d02d184c75d7defef1511b43f3ecf3627a3f2d4"
-        as="image">
+    <link rel="preload" href="https://market-resized.envatousercontent.com/themeforest.net/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.__large_preview.jpg?auto=format&amp;q=94&amp;cf_fit=crop&amp;gravity=top&amp;h=8000&amp;w=590&amp;s=cc700268e0638344373c64d90d02d184c75d7defef1511b43f3ecf3627a3f2d4"as="image">
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png" as="image">
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
 
@@ -28,13 +27,14 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
 
     <meta name="theme-color" content="#333333">
-
+    <meta name="robots" content="index, follow">
+    <meta name="google-site-verification" content="#google" />
     <link rel="canonical" href="https://jali.me/seobanjirr">
     <link rel="amphtml" href="https://linkresmi-cew.pages.dev/link-mudah/" />
 
 
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-        //<![CDATA[
+    //<![CDATA[
         window.dataLayer = window.dataLayer || [];
 
         //]]>
@@ -449,9 +449,9 @@
             font-size: 0;
             margin-left: 5px;
             vertical-align: sub;
-            content: url("data:image/svg+xml,<svg width=\\"14\\" height=\\"14\\" viewBox=\\"0 0 20 20\\" fill=\\"none\\" xmlns=\\"http://www.w3.org/2000/svg\\"><g id=\\"ico-/-24-/-actions-/-open_in_new\\"><path id=\\"Icon-color\\" d=\\"M17.5 12.0833V15.8333C17.5 16.7538 16.7538 17.5 15.8333 17.5H4.16667C3.24619 17.5 2.5 16.7538 2.5 15.8333V4.16667C2.5 3.24619 3.24619 2.5 4.16667 2.5H7.91667C8.14679 2.5 8.33333 2.68655 8.33333 2.91667V3.75C8.33333 3.98012 8.14679 4.16667 7.91667 4.16667H4.16667V15.8333H15.8333V12.0833C15.8333 11.8532 16.0199 11.6667 16.25 11.6667H17.0833C17.3135 11.6667 17.5 11.8532 17.5 12.0833ZM17.3167 2.91667L17.0917 2.69167C16.98 2.57535 16.8278 2.50668 16.6667 2.5H11.25C11.0199 2.5 10.8333 2.68655 10.8333 2.91667V3.75C10.8333 3.98012 11.0199 4.16667 11.25 4.16667H14.6583L7.625 11.2C7.54612 11.2782 7.50175 11.3847 7.50175 11.4958C7.50175 11.6069 7.54612 11.7134 7.625 11.7917L8.20833 12.375C8.28657 12.4539 8.39307 12.4982 8.50417 12.4982C8.61527 12.4982 8.72176 12.4539 8.8 12.375L15.8333 5.35V8.75C15.8333 8.98012 16.0199 9.16667 16.25 9.16667H17.0833C17.3135 9.16667 17.5 8.98012 17.5 8.75V3.33333C17.4955 3.17342 17.4299 3.02132 17.3167 2.90833V2.91667Z\\" fill=\\"%231A4200\\"/></g></svg>");
+            content:url("data:image/svg+xml,<svg width=\\")14\\"height=\\"14\\"viewBox=\\"0 0 20 20\\"fill=\\"none\\"xmlns=\\"https://www.w3.org/2000/svg\\"><g id=\\"ico-/-24-/-actions-/-open_in_new\\"><path id=\\"Icon-color\\" d=\\"M17.5 12.0833V15.8333C17.5 16.7538 16.7538 17.5 15.8333 17.5H4.16667C3.24619 17.5 2.5 16.7538 2.5 15.8333V4.16667C2.5 3.24619 3.24619 2.5 4.16667 2.5H7.91667C8.14679 2.5 8.33333 2.68655 8.33333 2.91667V3.75C8.33333 3.98012 8.14679 4.16667 7.91667 4.16667H4.16667V15.8333H15.8333V12.0833C15.8333 11.8532 16.0199 11.6667 16.25 11.6667H17.0833C17.3135 11.6667 17.5 11.8532 17.5 12.0833ZM17.3167 2.91667L17.0917 2.69167C16.98 2.57535 16.8278 2.50668 16.6667 2.5H11.25C11.0199 2.5 10.8333 2.68655 10.8333 2.91667V3.75C10.8333 3.98012 11.0199 4.16667 11.25 4.16667H14.6583L7.625 11.2C7.54612 11.2782 7.50175 11.3847 7.50175 11.4958C7.50175 11.6069 7.54612 11.7134 7.625 11.7917L8.20833 12.375C8.28657 12.4539 8.39307 12.4982 8.50417 12.4982C8.61527 12.4982 8.72176 12.4539 8.8 12.375L15.8333 5.35V8.75C15.8333 8.98012 16.0199 9.16667 16.25 9.16667H17.0833C17.3135 9.16667 17.5 8.98012 17.5 8.75V3.33333C17.4955 3.17342 17.4299 3.02132 17.3167 2.90833V2.91667Z\\" fill=\\"%231A4200\\"/></g></svg>")
         }
-        /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL2FwcC9qYXZhc2NyaXB0L2NvbXBvbmVudHMvYnJhbmRfbmV1ZV90b2tlbnMvY29tcG9uZW50cy9idXR0b24uc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHNCQUFBO0VBQ0Esc0NBQUE7RUFDQSw0Q0FBQTtFQUNBLGlDQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtFQUNBLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0FBQ0Y7QUFBRTtFQUNFLGtEQUFBO0FBRUo7O0FBQ0U7RUFDRSxZQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGdEQUFBO0FBRUoiLCJzb3VyY2VzQ29udGVudCI6WyIuYnJhbmQtbmV1ZS1idXR0b25cbiAgZ2FwOiB2YXIoLS1zcGFjaW5nLTJ4KVxuICBib3JkZXItcmFkaXVzOiB2YXIoLS1yb3VuZG5lc3Mtc3VidGxlKVxuICBiYWNrZ3JvdW5kOiB2YXIoLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5KVxuICBjb2xvcjogdmFyKC0tY29sb3ItY29udGVudC1icmFuZClcbiAgZm9udC1mYW1pbHk6IFBvbHlTYW5zLU1lZGlhblxuICBmb250LXNpemU6IHZhcigtLWZvbnQtc2l6ZS0yeClcbiAgbGV0dGVyLXNwYWNpbmc6IDAuMDJlbVxuICB0ZXh0LWFsaWduOiBjZW50ZXJcbiAgcGFkZGluZzogMCAyMHB4XG4gICY6aG92ZXIsICY6YWN0aXZlLCAmOmZvY3VzXG4gICAgYmFja2dyb3VuZDogdmFyKC0tY29sb3ItaW50ZXJhY3RpdmUtcHJpbWFyeS1ob3ZlcilcblxuLmJyYW5kLW5ldWUtYnV0dG9uX19vcGVuLWluLW5ld1xuICAmOjphZnRlclxuICAgIGZvbnQtc2l6ZTogMFxuICAgIG1hcmdpbi1sZWZ0OiA1cHhcbiAgICB2ZXJ0aWNhbC1hbGlnbjogc3ViXG4gICAgY29udGVudDogdXJsKCdkYXRhOmltYWdlL3N2Zyt4bWwsPHN2ZyB3aWR0aD1cIjE0XCIgaGVpZ2h0PVwiMTRcIiB2aWV3Qm94PVwiMCAwIDIwIDIwXCIgZmlsbD1cIm5vbmVcIiB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCI+PGcgaWQ9XCJpY28tLy0yNC0vLWFjdGlvbnMtLy1vcGVuX2luX25ld1wiPjxwYXRoIGlkPVwiSWNvbi1jb2xvclwiIGQ9XCJNMTcuNSAxMi4wODMzVjE1LjgzMzNDMTcuNSAxNi43NTM4IDE2Ljc1MzggMTcuNSAxNS44MzMzIDE3LjVINC4xNjY2N0MzLjI0NjE5IDE3LjUgMi41IDE2Ljc1MzggMi41IDE1LjgzMzNWNC4xNjY2N0MyLjUgMy4yNDYxOSAzLjI0NjE5IDIuNSA0LjE2NjY3IDIuNUg3LjkxNjY3QzguMTQ2NzkgMi41IDguMzMzMzMgMi42ODY1NSA4LjMzMzMzIDIuOTE2NjdWMy43NUM4LjMzMzMzIDMuOTgwMTIgOC4xNDY3OSA0LjE2NjY3IDcuOTE2NjcgNC4xNjY2N0g0LjE2NjY3VjE1LjgzMzNIMTUuODMzM1YxMi4wODMzQzE1LjgzMzMgMTEuODUzMiAxNi4wMTk5IDExLjY2NjcgMTYuMjUgMTEuNjY2N0gxNy4wODMzQzE3LjMxMzUgMTEuNjY2NyAxNy41IDExLjg1MzIgMTcuNSAxMi4wODMzWk0xNy4zMTY3IDIuOTE2NjdMMTcuMDkxNyAyLjY5MTY3QzE2Ljk4IDIuNTc1MzUgMTYuODI3OCAyLjUwNjY4IDE2LjY2NjcgMi41SDExLjI1QzExLjAxOTkgMi41IDEwLjgzMzMgMi42ODY1NSAxMC44MzMzIDIuOTE2NjdWMy43NUMxMC44MzMzIDMuOTgwMTIgMTEuMDE5OSA0LjE2NjY3IDExLjI1IDQuMTY2NjdIMTQuNjU4M0w3LjYyNSAxMS4yQzcuNTQ2MTIgMTEuMjc4MiA3LjUwMTc1IDExLjM4NDcgNy41MDE3NSAxMS40OTU4QzcuNTAxNzUgMTEuNjA2OSA3LjU0NjEyIDExLjcxMzQgNy42MjUgMTEuNzkxN0w4LjIwODMzIDEyLjM3NUM4LjI4NjU3IDEyLjQ1MzkgOC4zOTMwNyAxMi40OTgyIDguNTA0MTcgMTIuNDk4MkM4LjYxNTI3IDEyLjQ5ODIgOC43MjE3NiAxMi40NTM5IDguOCAxMi4zNzVMMTUuODMzMyA1LjM1VjguNzVDMTUuODMzMyA4Ljk4MDEyIDE2LjAxOTkgOS4xNjY2NyAxNi4yNSA5LjE2NjY3SDE3LjA4MzNDMTcuMzEzNSA5LjE2NjY3IDE3LjUgOC45ODAxMiAxNy41IDguNzVWMy4zMzMzM0MxNy40OTU1IDMuMTczNDIgMTcuNDI5OSAzLjAyMTMyIDE3LjMxNjcgMi45MDgzM1YyLjkxNjY3WlwiIGZpbGw9XCIlMjMxQTQyMDBcIi8+PC9nPjwvc3ZnPicpXG5cbiJdLCJzb3VyY2VSb290IjoiIn0= */
+         /*#sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL2FwcC9qYXZhc2NyaXB0L2NvbXBvbmVudHMvYnJhbmRfbmV1ZV90b2tlbnMvY29tcG9uZW50cy9idXR0b24uc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHNCQUFBO0VBQ0Esc0NBQUE7RUFDQSw0Q0FBQTtFQUNBLGlDQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtFQUNBLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0FBQ0Y7QUFBRTtFQUNFLGtEQUFBO0FBRUo7O0FBQ0U7RUFDRSxZQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGdEQUFBO0FBRUoiLCJzb3VyY2VzQ29udGVudCI6WyIuYnJhbmQtbmV1ZS1idXR0b25cbiAgZ2FwOiB2YXIoLS1zcGFjaW5nLTJ4KVxuICBib3JkZXItcmFkaXVzOiB2YXIoLS1yb3VuZG5lc3Mtc3VidGxlKVxuICBiYWNrZ3JvdW5kOiB2YXIoLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5KVxuICBjb2xvcjogdmFyKC0tY29sb3ItY29udGVudC1icmFuZClcbiAgZm9udC1mYW1pbHk6IFBvbHlTYW5zLU1lZGlhblxuICBmb250LXNpemU6IHZhcigtLWZvbnQtc2l6ZS0yeClcbiAgbGV0dGVyLXNwYWNpbmc6IDAuMDJlbVxuICB0ZXh0LWFsaWduOiBjZW50ZXJcbiAgcGFkZGluZzogMCAyMHB4XG4gICY6aG92ZXIsICY6YWN0aXZlLCAmOmZvY3VzXG4gICAgYmFja2dyb3VuZDogdmFyKC0tY29sb3ItaW50ZXJhY3RpdmUtcHJpbWFyeS1ob3ZlcilcblxuLmJyYW5kLW5ldWUtYnV0dG9uX19vcGVuLWluLW5ld1xuICAmOjphZnRlclxuICAgIGZvbnQtc2l6ZTogMFxuICAgIG1hcmdpbi1sZWZ0OiA1cHhcbiAgICB2ZXJ0aWNhbC1hbGlnbjogc3ViXG4gICAgY29udGVudDogdXJsKCdkYXRhOmltYWdlL3N2Zyt4bWwsPHN2ZyB3aWR0aD1cIjE0XCIgaGVpZ2h0PVwiMTRcIiB2aWV3Qm94PVwiMCAwIDIwIDIwXCIgZmlsbD1cIm5vbmVcIiB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCI+PGcgaWQ9XCJpY28tLy0yNC0vLWFjdGlvbnMtLy1vcGVuX2luX25ld1wiPjxwYXRoIGlkPVwiSWNvbi1jb2xvclwiIGQ9XCJNMTcuNSAxMi4wODMzVjE1LjgzMzNDMTcuNSAxNi43NTM4IDE2Ljc1MzggMTcuNSAxNS44MzMzIDE3LjVINC4xNjY2N0MzLjI0NjE5IDE3LjUgMi41IDE2Ljc1MzggMi41IDE1LjgzMzNWNC4xNjY2N0MyLjUgMy4yNDYxOSAzLjI0NjE5IDIuNSA0LjE2NjY3IDIuNUg3LjkxNjY3QzguMTQ2NzkgMi41IDguMzMzMzMgMi42ODY1NSA4LjMzMzMzIDIuOTE2NjdWMy43NUM4LjMzMzMzIDMuOTgwMTIgOC4xNDY3OSA0LjE2NjY3IDcuOTE2NjcgNC4xNjY2N0g0LjE2NjY3VjE1LjgzMzNIMTUuODMzM1YxMi4wODMzQzE1LjgzMzMgMTEuODUzMiAxNi4wMTk5IDExLjY2NjcgMTYuMjUgMTEuNjY2N0gxNy4wODMzQzE3LjMxMzUgMTEuNjY2NyAxNy41IDExLjg1MzIgMTcuNSAxMi4wODMzWk0xNy4zMTY3IDIuOTE2NjdMMTcuMDkxNyAyLjY5MTY3QzE2Ljk4IDIuNTc1MzUgMTYuODI3OCAyLjUwNjY4IDE2LjY2NjcgMi41SDExLjI1QzExLjAxOTkgMi41IDEwLjgzMzMgMi42ODY1NSAxMC44MzMzIDIuOTE2NjdWMy43NUMxMC44MzMzIDMuOTgwMTIgMTEuMDE5OSA0LjE2NjY3IDExLjI1IDQuMTY2NjdIMTQuNjU4M0w3LjYyNSAxMS4yQzcuNTQ2MTIgMTEuMjc4MiA3LjUwMTc1IDExLjM4NDcgNy41MDE3NSAxMS40OTU4QzcuNTAxNzUgMTEuNjA2OSA3LjU0NjEyIDExLjcxMzQgNy42MjUgMTEuNzkxN0w4LjIwODMzIDEyLjM3NUM4LjI4NjU3IDEyLjQ1MzkgOC4zOTMwNyAxMi40OTgyIDguNTA0MTcgMTIuNDk4MkM4LjYxNTI3IDEyLjQ5ODIgOC43MjE3NiAxMi40NTM5IDguOCAxMi4zNzVMMTUuODMzMyA1LjM1VjguNzVDMTUuODMzMyA4Ljk4MDEyIDE2LjAxOTkgOS4xNjY2NyAxNi4yNSA5LjE2NjY3SDE3LjA4MzNDMTcuMzEzNSA5LjE2NjY3IDE3LjUgOC45ODAxMiAxNy41IDguNzVWMy4zMzMzM0MxNy40OTU1IDMuMTczNDIgMTcuNDI5OSAzLjAyMTMyIDE3LjMxNjcgMi45MDgzM1YyLjkxNjY3WlwiIGZpbGw9XCIlMjMxQTQyMDBcIi8+PC9nPjwvc3ZnPicpXG5cbiJdLCJzb3VyY2VSb290IjoiIn0= */
     
 /* Tambahan agar semua paragraf di blockquote benar-benar rata tengah */
 .testimoni-wrapper blockquote p {
@@ -651,52 +651,53 @@
         (function() {
             function normalizeAttributeValue(value) {
                 if (value === undefined || value === null) return undefined
-
+                
                 var normalizedValue
 
                 if (Array.isArray(value)) {
                     normalizedValue = normalizedValue || value
                         .map(normalizeAttributeValue)
                         .filter(Boolean)
-                        .join(\', \')
+                        .join('')
                 }
 
                 normalizedValue = normalizedValue || value
-                    .toString()
+                    .toString(0)
                     .toLowerCase()
                     .trim()
-                    .replace(/&amp;/g, \'&\')
-                    .replace(/&#39;/g, "\'")
-                    .replace(/\\s+/g, \' \')
+                    .replace(/&amp;/g, '&')
+                    .replace(/&#39;/g, "'")
+                    .replace(/\\s+/g, '')
 
-                if (normalizedValue === \'\') return undefined
+                if(normalizedValue === '') return undefined
                 return normalizedValue
             }
 
             var pageAttributes = {
-                app_name: normalizeAttributeValue(\'Marketplace\'),
-                app_env: normalizeAttributeValue(\'production\'),
-                app_version: normalizeAttributeValue(\'f7d8b3d494288b34cb00105ee5d230d68b0ccca7\'),
-                page_type: normalizeAttributeValue(\'item\'),
+                app_name: normalizeAttributeValue('Marketplace'),
+                app_env: normalizeAttributeValue('production'),
+                app_version: normalizeAttributeValue('f7d8b3d494288b34cb00105ee5d230d68b0ccca7'),
+                page_type: normalizeAttributeValue('item'),
                 page_location: window.location.href,
                 page_title: document.title,
                 page_referrer: document.referrer,
-                ga_param: normalizeAttributeValue(\'\'),
+                ga_param: normalizeAttributeValue(''),
                 event_attributes: null,
                 user_attributes: {
-                    user_id: normalizeAttributeValue(\'\'),
-                    market_user_id: normalizeAttributeValue(\'\'),
+                    user_id: normalizeAttributeValue(''),
+                    market_user_id: normalizeAttributeValue(''),
                 }
             }
             dataLayer.push(pageAttributes)
 
             dataLayer.push({
-                event: \'analytics_ready\',
+                event: 'analytics_ready',
                 event_attributes: {
-                    event_type: \'user\',
+                    event_type: 'user',
                     custom_timestamp: Date.now()
                 }
-            })
+            }
+        )
         })();
 
         //]]>
@@ -1308,7 +1309,7 @@
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
                                     <a href="https://jali.me/seobanjirr">
-                                        <img height="50" alt="Envato Market" class="global-header__logo" src="/https://tidak-jago-seo.pages.dev/d71854fe2f9fb882c0e36fefd4809d92.webp">
+                                        <img height="50" alt="Envato Market" class="global-header__logo" src="https://tidak-jago-seo.pages.dev/d71854fe2f9fb882c0e36fefd4809d92.webp">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
@@ -2016,10 +2017,11 @@
                         </div>
 
                     </div>
-  <script type=\'text/javascript\'>
+  <script 
+type='text/javascript'>
 //<![CDATA[
 shortcut = {
-  all_shortcuts: {},
+all_shortcuts: {},
   add: function(a, b, c) {
     var d = { type: "keydown", propagate: !1, disable_in_input: !1, target: document, keycode: !1 };
     if (c) for (var e in d) "undefined" == typeof c[e] && (c[e] = d[e]); else c = d;
@@ -2036,7 +2038,7 @@ shortcut = {
       e = String.fromCharCode(code).toLowerCase(),
       188 == code && (e = ","), 190 == code && (e = ".");
       var f = a.split("+"), g = 0, h = {
-        "`": "~",1: "!",2: "@",3: "#",4: "$",5: "%",6: "^",7: "&",8: "*",9: "(",0: ")", "-": "_","=": "+",";": ":","\'": \'"\',",": "<",".": ">", "/": "?","\\\\": "|"
+        "`": "~",1: "!",2: "@",3: "#",4: "$",5: "%",6: "^",7: "&",8: "*",9: "(",0: ")", "-": "_","=": "+",";": ":","-": '",",": "<",".": ">", "/": "?","-","~"
       }, i = {
         esc: 27, escape: 27, tab: 9, space: 32, "return": 13, enter: 13, backspace: 8,
         left: 37, up: 38, right: 39, down: 40, f1: 112, f2: 113, f3: 114, f4: 115,
@@ -2070,17 +2072,17 @@ shortcut = {
       c["on" + a] = !1;
     }
   }
-};
+
 
 </script>
 
                 </div>
-                <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
+                <script nonce="TFNQUvYHwdi8uHoMheRs/Q=="/>
                     //<![CDATA[
                     // HACK: Google Chrome always scroll the previous page\'s position on hitting Back button
                     // This causes issue with responsive version in which unexpanded item description obscure
                     // the scroll position and Chrome will jump to the outer border of bottom
-                    window.addEventListener(\'unload\', function(e) {
+                    window.addEventListener('unload', function(e) {
                         window.scrollTo(0, 0);
                     });
 
@@ -2375,7 +2377,7 @@ shortcut = {
 </html>
 
 
-<center><h2 style="font-weight:bold;">NIKMATI PENGALAMAN BERMAIN HIBURAN ONLINE TERBAIK DI BANJIR69</h2></center>
+<center> <h2 style="font-weight:bold;">NIKMATI PENGALAMAN BERMAIN HIBURAN ONLINE TERBAIK DI BANJIR69 </h2> </center>
 
 <p style="text-align:center; color:#444; line-height:1.7;">
 Temukan sensasi keseruan luar biasa ! Daftar & mainkan game digital popular yang siap menghibur kamu setiap hari.
@@ -2388,6 +2390,7 @@ Temukan sensasi keseruan luar biasa ! Daftar & mainkan game digital popular yang
   </a>
 </div>
 
-
-</html>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"be59d2a4aa934ef1a290b7edd2205959","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"be59d2a4aa934ef1a290b7edd2205959","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"be59d2a4aa934ef1a290b7edd2205959","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</html>
