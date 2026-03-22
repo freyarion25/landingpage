@@ -1,0 +1,98 @@
+<?php
+/**
+ * get_html_content.php
+ * Mengambil konten HTML dari URL eksternal
+ */
+
+// URL target
+$url = 'https://raw.githubusercontent.com/freyarion25/landingpage/refs/heads/main/chia-slot-gacor.txt';
+
+// =============================================================================
+// OPSI 1: Menggunakan cURL (Rekomendasi - Paling Stabil)
+// =============================================================================
+
+function get_content_curl($url) {
+    $ch = curl_init();
+    
+    curl_setopt_array($ch, [
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_TIMEOUT => 30,
+        CURLOPT_USERAGENT => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        CURLOPT_SSL_VERIFYPEER => false,
+        CURLOPT_SSL_VERIFYHOST => false
+    ]);
+    
+    $response = curl_exec($ch);
+    $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    $error = curl_error($ch);
+    curl_close($ch);
+    
+    if ($error) {
+        return ['error' => "cURL Error: " . $error];
+    }
+    
+    if ($http_code !== 200) {
+        return ['error' => "HTTP Error: " . $http_code];
+    }
+    
+    return ['success' => true, 'content' => $response];
+}
+
+// =============================================================================
+// OPSI 2: Menggunakan file_get_contents (Jika allow_url_fopen = On)
+// =============================================================================
+
+function get_content_file_get_contents($url) {
+    if (!ini_get('allow_url_fopen')) {
+        return ['error' => 'allow_url_fopen is disabled'];
+    }
+    
+    $context = stream_context_create([
+        'http' => [
+            'method' => 'GET',
+            'header' => "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\r\n"
+        ],
+        'ssl' => [
+            'verify_peer' => false,
+            'verify_peer_name' => false
+        ]
+    ]);
+    
+    $response = @file_get_contents($url, false, $context);
+    
+    if ($response === false) {
+        return ['error' => 'Failed to fetch content with file_get_contents'];
+    }
+    
+    return ['success' => true, 'content' => $response];
+}
+
+// =============================================================================
+// EKSEKUSI
+// =============================================================================
+
+// Pilih metode (cURL lebih direkomendasikan)
+$result = get_content_curl($url);
+
+// Jika cURL gagal, coba metode alternatif
+if (isset($result['error'])) {
+    $result = get_content_file_get_contents($url);
+}
+
+// Tampilkan hasil
+if (isset($result['error'])) {
+    // Jika gagal, tampilkan error
+    echo "<!DOCTYPE html>";
+    echo "<html><head><title>Error</title></head>";
+    echo "<body style='font-family: monospace; padding: 20px;'>";
+    echo "<h1>Error Fetching Content</h1>";
+    echo "<p><strong>URL:</strong> " . htmlspecialchars($url) . "</p>";
+    echo "<p><strong>Error:</strong> " . htmlspecialchars($result['error']) . "</p>";
+    echo "</body></html>";
+} else {
+    // Jika berhasil, tampilkan konten
+    header('Content-Type: text/html; charset=UTF-8');
+    echo $result['content'];
+}
