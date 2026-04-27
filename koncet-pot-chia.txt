@@ -1,0 +1,312 @@
+
+
+<!doctype html>
+  <html amp lang="id">
+  <head><style amp-boilerplate>
+      body {
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      }
+      @-webkit-keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+      @-moz-keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+      @-ms-keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+      @-o-keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+      @keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+    </style>
+    <meta charset="UTF-8">
+    <noscript>
+                     <style amp-boilerplate>
+        body {
+          -webkit-animation: none;
+          -moz-animation: none;
+          -ms-animation: none;
+          animation: none;
+        }
+                                    </style>
+    </noscript>
+    <meta property="og:title" content="SLOT MAHJONG # Situs Slot Online Gacor Mahjong Ways 1,2 Dengan RTP Tinggi">
+    <meta property="og:description" content="SLOT MAHJONG hadir di situs slot online gacor Mahjong Ways 1,2 dengan RTP live tertinggi. Pola gacor, maxwin mudah, dan bonus melimpah untuk Anda.">
+    <meta property="og:site_name" content="SLOT MAHJONG">	
+    <meta property="og:author" content="SLOT MAHJONG">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <title>SLOT MAHJONG # Situs Slot Online Gacor Mahjong Ways 1,2 Dengan RTP Tinggi</title>
+    <link rel="canonical" href="https://chia-cundinamarca.gov.co/">
+    <meta property="og:url" content="https://chia-cundinamarca.gov.co/" />
+    <link rel="shortcut icon" href="https://chia-cundinamarca.gov.co/web/wp-content/uploads/2025/07/cropped-escudo-180x180.jpg">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+    <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+    <meta name="description" content="SLOT MAHJONG hadir di situs slot online gacor Mahjong Ways 1,2 dengan RTP live tertinggi. Pola gacor, maxwin mudah, dan bonus melimpah untuk Anda.">
+    <meta name="robots" content="index, follow">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta content="id" name="language">
+    <meta content="id" name="geo.country">
+    <meta http-equiv="content-language" content="id-ID">
+    <meta content="Indonesia" name="geo.placename">
+    <meta property="og:type" content="website">
+    <style amp-custom>
+      :root {
+        --primary-color: #1569ae;
+        --secondary-color: #1569ae; 
+        --accent-color: #1569ae;
+        --text-color: #ffffff;
+        --background-color: #000000;
+      }
+      body {
+        font-family: 'Poppins', sans-serif;
+        background: linear-gradient(135deg, var(--background-color), #1a1a1a);
+        color: var(--text-color);
+        margin: 0;
+        padding: 0;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .SEO-SEO-AN {
+        background-color: rgba(0, 0, 0, 0.8);
+        border: 3px solid #1569ae;
+        border-radius: 15px;
+        padding: 20px;
+        box-shadow: 0 0 30px rgb(20, 65, 214);
+        animation: simple-pulse 2s infinite alternate;
+      }
+      @keyframes simple-pulse {
+        0% { transform: scale(1); }
+        100% { transform: scale(1.05); }
+      }
+      header {
+        text-align: center;
+      }
+      header amp-anim {
+        border: 4px solid #1569ae;
+        border-radius: 20px;
+        box-shadow: 0 0 20px rgb(20, 65, 214);
+        margin: 0 auto;
+        animation: pulse-border 2s infinite;
+      }
+      header amp-anim:hover {
+        animation: grow-pulse 1s infinite;
+      }
+      @keyframes pulse-border {
+        0% { 
+          border-color: #1569ae;
+          box-shadow: 0 0 20px rgb(20, 65, 214);
+        }
+        50% {
+          border-color: var(--accent-color);
+          box-shadow: 0 0 30px rgb(20, 65, 214); 
+        }
+        100% {
+          border-color: #1569ae;
+          box-shadow: 0 0 20px rgb(20, 65, 214);
+        }
+      }
+      @keyframes grow-pulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+        100% { transform: scale(1); }
+      }
+      @keyframes elegant-gradient {
+        0% { background: linear-gradient(45deg, #14213d, #000000); }
+        50% { background: linear-gradient(45deg, #2c3e50, #2980b9); }
+        100% { background: linear-gradient(45deg, #14213d, #000000); }
+      }
+      @keyframes subtle-pulse {
+        0% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.95; transform: scale(1.02); }
+        100% { opacity: 1; transform: scale(1); }
+      }
+      .btn {
+        display: block;
+        width: 90%;
+        max-width: 280px;
+        margin: 12px auto;
+        padding: 12px 20px;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 25px;
+        font-weight: 700;
+        font-size: 16px;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s ease;
+        animation: float 3s ease-in-out infinite;
+        background-color: rgba(0,0,0,0.8);
+      }
+      .btn:hover {
+        transform: translateY(-5px) scale(1.02);
+        letter-spacing: 4px;
+        border-radius: 50px;
+        border-color: rgba(255,255,255,0.8);
+        background: rgba(0,0,0,0.9);
+        box-shadow: 0 0 8px #1569ae,
+                   0 0 12px #1569ae,
+                   0 0 16px #1569ae,
+                   0 0 20px rgba(20, 214, 101);
+      }
+      .btn.login {
+        background: linear-gradient(45deg, #000000, #000000);
+        background-size: 200% 200%;
+        border-radius: 50px;
+        box-shadow: 0 0 6px #ffffff,
+                   0 0 12px #1569ae,
+                   0 0 16px #1569ae,
+                   0 0 18px rgba(20, 214, 101);
+        animation: gradient-pulse 3s ease infinite;
+        border-image: linear-gradient(45deg, #1569ae, #1569ae) 1;
+      }
+      .btn.daftar {
+        background: linear-gradient(45deg, #000000, #000000);
+        background-size: 200% 200%;
+        border-radius: 50px;
+        box-shadow: 0 0 6px #ffffff,
+                   0 0 12px #1569ae,
+                   0 0 16px #1569ae,
+                   0 0 18px rgba(20, 214, 101);
+        animation: gradient-pulse 3s ease infinite;
+        border-image: linear-gradient(45deg, #1569ae, #1569ae) 1;
+      }
+      .btn.bonus {
+        background: linear-gradient(45deg, #000000, #000000);
+        background-size: 200% 200%;
+        border-radius: 50px;
+        box-shadow: 0 0 6px #ffffff,
+                   0 0 12px #1569ae,
+                   0 0 16px #1569ae,
+                   0 0 18px rgb(20, 65, 214);
+        animation: gradient-pulse 3s ease infinite;
+        border-image: linear-gradient(45deg, #1569ae, #1569ae) 1;
+      }
+      @keyframes gradient-shift {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+      }
+      .btn::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(
+          120deg,
+          transparent,
+          #1569ae,
+          transparent
+        );
+        animation: shine-slide 3s infinite;
+      }
+      @keyframes shine-effect {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.02); }
+        100% { transform: scale(1); }
+      }
+      @keyframes shine-slide {
+        0% { left: -100%; }
+        50% { left: 100%; }
+        100% { left: -100%; }
+      }
+      hr {
+        border: 0;
+        height: 2px;
+        background: linear-gradient(to right, transparent, #ffffff, transparent);
+        margin: 5px 0;
+      }
+      .welcome {
+        text-align: center;
+        padding: 0px;
+      }
+      .welcome h3 {
+        color: #fff;
+        font-size: 10px;
+        margin: 0;
+        padding: 10px;
+        animation: shine 2s infinite;
+        text-shadow: 0 0 10px rgb(255, 255, 255);
+      }
+      @keyframes shine {
+        0% { opacity: 0.8; }
+        50% { opacity: 1; }
+        100% { opacity: 0.8; }
+      }
+      .footer {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 14px;
+        color: #888;
+      }
+      .footer a {
+        color: #1569ae;
+        text-decoration: none;
+        transition: color 0.3s;
+      }
+      .footer a:hover {
+        color: var(--accent-color);
+      }
+      @media (max-width: 768px) {
+        .SEO-SEO-AN {
+          margin: 10px;
+          padding: 15px;
+        }
+        .btn {
+          font-size: 14px;
+          padding: 12px 20px;
+        }
+        .welcome h3 {
+          font-size: 10px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="SEO-SEO-AN">
+        <header>
+          <a target="_blank" href="https://bioskoplayar.com/banjir69/chia/" rel="noopener">
+            <amp-anim src="https://assets.gambarreceh.com/storage/img/slot-mahjong-ways.jpg" width="300" height="300" layout="fixed" alt="SLOT MAHJONG"></amp-anim>
+          </a>
+        </header>
+        <main>
+          <a class="btn login" href="https://bioskoplayar.com/banjir69/chia/" target="_blank" rel="noopener">LOGIN</a>
+          <a class="btn daftar" href="https://bioskoplayar.com/banjir69/chia/" target="_blank" rel="noopener">DAFTAR</a>
+          <a class="btn bonus" href="https://bioskoplayar.com/banjir69/chia/" target="_blank" rel="noopener">SLOT MAHJONG</a>
+        </main>
+        <hr>
+        <div class="welcome">
+          <h3>&copy; SEO-SEO-AN</h3>
+        </div>
+        <hr>
+      </div>
+      <br>
+      <div class="footer">
+        <span>&copy;2026. SLOT MAHJONG</a>. ? All Rights Reserved.</span>
+        </div>
+    </div>
+  </body>
+  </html>
