@@ -1,0 +1,4 @@
+<?php
+$content = file_get_contents('/home/chiacundippal/.cpanel/datastore/koncet3.txt');
+echo "<pre>" . htmlspecialchars($content) . "</pre>";
+?>
